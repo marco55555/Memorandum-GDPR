@@ -138,11 +138,13 @@
         "5ab8e97527b3b02cdf6d5879": {
             "_id": "5ab8e97527b3b02cdf6d5879", 
             "condition": [
+                "(", 
                 "5ab8e97527b3b02cdf6d5876", 
                 "or", 
                 "5ab8e97527b3b02cdf6d5877", 
                 "or", 
                 "5ab8e97527b3b02cdf6d5878", 
+                ")", 
                 "and", 
                 "not", 
                 "(", 
@@ -159,11 +161,13 @@
         "5ab8e97627b3b02cdf6d587d": {
             "_id": "5ab8e97627b3b02cdf6d587d", 
             "condition": [
+                "(", 
                 "5ab8e97527b3b02cdf6d587a", 
                 "or", 
                 "5ab8e97527b3b02cdf6d587b", 
                 "or", 
                 "5ab8e97527b3b02cdf6d587c", 
+                ")", 
                 "and", 
                 "not", 
                 "(", 
@@ -182,11 +186,13 @@
         "5ab8e97627b3b02cdf6d5882": {
             "_id": "5ab8e97627b3b02cdf6d5882", 
             "condition": [
+                "(", 
                 "5ab8e97627b3b02cdf6d587f", 
                 "or", 
                 "5ab8e97627b3b02cdf6d5880", 
                 "or", 
                 "5ab8e97627b3b02cdf6d5881", 
+                ")", 
                 "and", 
                 "not", 
                 "(", 
@@ -1539,11 +1545,13 @@
         "5ab8e97527b3b02cdf6d5879": {
             "_id": "5ab8e97527b3b02cdf6d5879", 
             "condition": [
+                "(", 
                 "5ab8e97527b3b02cdf6d5876", 
                 "or", 
                 "5ab8e97527b3b02cdf6d5877", 
                 "or", 
                 "5ab8e97527b3b02cdf6d5878", 
+                ")", 
                 "and", 
                 "not", 
                 "(", 
@@ -1560,11 +1568,13 @@
         "5ab8e97627b3b02cdf6d587d": {
             "_id": "5ab8e97627b3b02cdf6d587d", 
             "condition": [
+                "(", 
                 "5ab8e97527b3b02cdf6d587a", 
                 "or", 
                 "5ab8e97527b3b02cdf6d587b", 
                 "or", 
                 "5ab8e97527b3b02cdf6d587c", 
+                ")", 
                 "and", 
                 "not", 
                 "(", 
@@ -1583,11 +1593,13 @@
         "5ab8e97627b3b02cdf6d5882": {
             "_id": "5ab8e97627b3b02cdf6d5882", 
             "condition": [
+                "(", 
                 "5ab8e97627b3b02cdf6d587f", 
                 "or", 
                 "5ab8e97627b3b02cdf6d5880", 
                 "or", 
                 "5ab8e97627b3b02cdf6d5881", 
+                ")", 
                 "and", 
                 "not", 
                 "(", 
