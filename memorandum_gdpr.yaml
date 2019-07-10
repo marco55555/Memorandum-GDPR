@@ -1,0 +1,2164 @@
+advanced_preconditions:
+  k05f1363c6223:
+    condition:
+    - k7df8b4207e49
+    - or
+    - k0ffdd5b0f1d7
+    - or
+    - kb860e03e739f
+    entity: precondition/advanced
+    hash: k05f1363c6223
+    public: true
+    title: "DPO S\xEC"
+    type: advanced
+    visible: true
+  k0de789a9c37d:
+    condition:
+    - (
+    - k5d7b229c938f
+    - or
+    - kc694b5865459
+    - )
+    - and
+    - (
+    - k97fb84332a16
+    - or
+    - k8584379fdec7
+    - or
+    - k4b0abf3ffbf3
+    - )
+    entity: precondition/advanced
+    hash: k0de789a9c37d
+    public: true
+    title: Dati Sensibili o Dipendenti E PIA e Dipendenti No Rischio
+    type: advanced
+    visible: true
+  k0e0f1dd559a4:
+    condition:
+    - k3abf3c3e033d
+    - or
+    - k8584379fdec7
+    entity: precondition/advanced
+    hash: k0e0f1dd559a4
+    public: true
+    title: PIA No
+    type: advanced
+    visible: true
+  k1f746bd9f74d:
+    condition:
+    - (
+    - k6a209668acee
+    - or
+    - keeede992ede8
+    - or
+    - kbcc40f07b08b
+    - )
+    - and
+    - not
+    - (
+    - k7df8b4207e49
+    - or
+    - k0ffdd5b0f1d7
+    - or
+    - kb860e03e739f
+    - )
+    entity: precondition/advanced
+    hash: k1f746bd9f74d
+    public: true
+    title: DPO Forse
+    type: advanced
+    visible: true
+  k38b9f8b682cd:
+    condition:
+    - kc694b5865459
+    - or
+    - k318a160d7349
+    entity: precondition/advanced
+    hash: k38b9f8b682cd
+    public: true
+    title: "Dati Dipendenti o Rischio S\xEC"
+    type: advanced
+    visible: true
+  k59fe9266422d:
+    condition:
+    - (
+    - k4b0abf3ffbf3
+    - or
+    - k9542bbe2cb2f
+    - or
+    - k17adfdc712e5
+    - )
+    - and
+    - not
+    - (
+    - k318a160d7349
+    - or
+    - k73cf1352230e
+    - or
+    - k5d7b229c938f
+    - )
+    entity: precondition/advanced
+    hash: k59fe9266422d
+    public: true
+    title: Registro Forse
+    type: advanced
+    visible: true
+  k716678b608f0:
+    condition:
+    - k7e1e569403b8
+    - or
+    - kc694b5865459
+    - or
+    - kde1951a3b85d
+    - or
+    - ka529f2fab0e2
+    - or
+    - k3b2c900de362
+    entity: precondition/advanced
+    hash: k716678b608f0
+    public: true
+    title: "Dati Quali \u21D2 was compiled"
+    type: advanced
+    visible: true
+  k83cf26879cee:
+    condition:
+    - kc694b5865459
+    - or
+    - k318a160d7349
+    - or
+    - k73cf1352230e
+    - or
+    - k5d7b229c938f
+    entity: precondition/advanced
+    hash: k83cf26879cee
+    public: true
+    title: "Registro S\xEC"
+    type: advanced
+    visible: true
+  k97fb84332a16:
+    condition:
+    - k43566d0c8c28
+    - or
+    - k3abf3c3e033d
+    - or
+    - k77638e437b43
+    entity: precondition/advanced
+    hash: k97fb84332a16
+    public: true
+    title: "PIA \u21D2 was compiled"
+    type: advanced
+    visible: true
+  k9b9173b9002b:
+    condition:
+    - kf65ab2e59eb4
+    - and
+    - k9f82c2f2087a
+    - and
+    - (
+    - kfe4db49ea5d1
+    - or
+    - not
+    - k0de789a9c37d
+    - )
+    entity: precondition/advanced
+    hash: k9b9173b9002b
+    public: true
+    title: DPO No
+    type: advanced
+    visible: true
+  ke2160880f376:
+    condition:
+    - not
+    - kc694b5865459
+    entity: precondition/advanced
+    hash: ke2160880f376
+    public: true
+    title: Dati No Dipendenti
+    type: advanced
+    visible: true
+  kec0668804dfc:
+    condition:
+    - (
+    - not
+    - ka529f2fab0e2
+    - )
+    - or
+    - k5d6879bc15c5
+    entity: precondition/advanced
+    hash: kec0668804dfc
+    public: true
+    title: Cookies No
+    type: advanced
+    visible: true
+  kf5c956070ae7:
+    condition:
+    - k77638e437b43
+    - or
+    - k4b0abf3ffbf3
+    entity: precondition/advanced
+    hash: kf5c956070ae7
+    public: true
+    title: PIA Forse
+    type: advanced
+    visible: true
+  kfde26f851736:
+    condition:
+    - k8584379fdec7
+    - and
+    - k63ec3bdf6427
+    - and
+    - kc03d7efd1d55
+    - and
+    - ke2160880f376
+    entity: precondition/advanced
+    hash: kfde26f851736
+    public: true
+    title: Registro No
+    type: advanced
+    visible: true
+auto_generated: false
+description: The new Memorandum GDPR fornisce indicazioni su cosa fare per adeguarsi
+  al GDPR
+entity: document
+hash: k42533bc59be0
+html: "# MEMORANDUM\n\n# PER L'ADEGUAMENTO AL\n\n# REGOLAMENTO GENERALE SULLA PROTEZIONE\
+  \ DEI DATI\n\nIl Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio\
+  \ del 27 aprile 2016 relativo alla protezione delle persone fisiche con riguardo\
+  \ al trattamento dei dati personali, nonch\xE9 alla libera circolazione di tali\
+  \ dati e che abroga la direttiva 95/46/CE (di seguito \"**Regolamento**\") impone\
+  \ obblighi ed adempimenti al titolare del trattamento.\n\nAi sensi dell'art. 5,\
+  \ comma 2, del Regolamento il titolare \xE8 responsabile del rispetto dei principi\
+  \ applicabili al trattamento e deve essere in grado di comprovarlo.\n\nInoltre,\
+  \ ai sensi dell'art. 24, comma 1, del Regolamento il titolare deve essere in grado\
+  \ di dimostrare che il trattamento effettuato \xE8 conforme al Regolamento.\n\n\
+  Pertanto, il presente Memorandum illustra gli obblighi ed adempimenti ai quali \xE8\
+  \ tenuto il titolare del trattamento, indica le attivit\xE0 che lo stesso deve eseguire\
+  \ e come documentarne l'esecuzione.\n\n## Checklist di sintesi\n\nElenco delle misure\
+  \ tecniche e organizzative da adottare ai sensi dell'art. 25.1 del Regolamento per\
+  \ integrare le necessarie garanzie al fine di soddisfare i requisiti del Regolamento\
+  \ e tutelare i diritti degli interessati.\n\n| Attivit\xE0 | Art.  | Da fare  |\
+  \ Da valutare | Da monitorare |\n| -------- | ----- |-------- | ----------- | -------------\
+  \ |\n| Attuare i principi di privacy by design e by default | 25.2 | X | | |\n|\
+  \ Attuare i principi di correttezza, trasparenza, limitazione delle finalit\xE0\
+  , minimizzazione dei dati, esattezza e limitazione della conservazione | 5.1| X\
+  \ | | |\n| Attuare il principio di liceit\xE0 | 5.1(a), 6.1, 9 e 10 | X | | |\n\
+  | Fornire l\u2019informativa agli interessati | 13 e 14 | X | | |\n| Replicare alle\
+  \ richieste degli interessati ed inviare le notifiche | 15-22 | | | X |\n| Redigere\
+  \ accordi con i contitolari del trattamento e/o contratti o altri atti giuridici\
+  \ con i responsabili del trattamento | 26 e 28 | #{ka475c5d84ea1} | #{kf304db211ebe}\
+  \ | #{ka6166939ff5d} |\n| Redigere le istruzioni agli incaricati del trattamento\
+  \ | 29 | #{k2708b9426d27} |  | #{k4d975875c1d6} |\n| Tenere il registro delle attivit\xE0\
+  \ di trattamento | 30 | #{k4a3974edf9cc} | #{k2eaf730153a7} | #{kff270d89bf93} |\n\
+  | Attuare i principi di integrit\xE0 e riservatezza e garantire un livello di sicurezza\
+  \ adeguato al rischio | 5.1(f) e 32 | X | | |\n| Valutare le violazioni dei dati\
+  \ e se necessario eseguire la notifica al Garante della Privacy e la comunicazione\
+  \ all\u2019interessato | 33 e 34 | | | X |\n| Eseguire la valutazione d\u2019impatto\
+  \ sulla protezione dei dati | 35 | #{k2bfe983eff75} | #{kbbd1ffa41e6e} | #{k622ad168dd5e}\
+  \ |\n| Eseguire la consultazione preventiva | 36 | | | X |\n| Designare il responsabile\
+  \ della protezione dei dati personali | 37 | #{k41bf4d897a7d} | #{kf4659e8c5ab5}\
+  \ | #{k46fd4098ad7b} |\n| Aderire a codici di condotta e/o adottare certificazioni\
+  \ | 40-43 | | | X |\n| Rispettare le condizioni di liceit\xE0 del trasferimento\
+  \ dei dati all\u2019estero | 44-50 | #{kd8e08ed6afc9} | #{kf35adf117692} | #{k162cbda6630d}\
+  \ |\n| Redigere l\u2019informativa e/o il banner cookie | - | #{k6b4baee15bce} |\
+  \ #{ke8e2e066a82d} | #{k09a780d4e517} |\n\n<br>\xC8 necessario aggiornare tutte\
+  \ le attivit\xE0 secondo necessit\xE0 (e comunque verificarle periodicamente).\n\
+  \n<u>**\xC8 importante documentare l'esecuzione della attivit\xE0**</u>.\n\nLe attivit\xE0\
+  \ vanno eseguite coordinando competenze legali, gestionali-organizzative e tecnico-informatiche.\n\
+  \n## Privacy by design e by default\n\nL'art. 25, commi 1 e 2, del Regolamento (Protezione\
+  \ dei dati fin dalla progettazione e protezione per impostazione predefinita) dispone:\n\
+  \n\"*1. Tenendo conto dello stato dell'arte e dei costi di attuazione, nonch\xE9\
+  \ della natura, dell'ambito di applicazione, del contesto e delle finalit\xE0 del\
+  \ trattamento, come anche dei rischi aventi probabilit\xE0 e gravit\xE0 diverse\
+  \ per i diritti e le libert\xE0 delle persone fisiche costituiti dal trattamento,\
+  \ sia <u>al momento di determinare i mezzi del trattamento</u> sia <u>all'atto del\
+  \ trattamento stesso</u> il titolare del trattamento mette in atto <u>misure tecniche\
+  \ e organizzative adeguate</u>, quali la pseudonimizzazione, <u>volte ad attuare</u>\
+  \ in modo efficace <u>i principi</u> di protezione dei dati, quali la minimizzazione,\
+  \ <u>e a</u> integrare nel trattamento le necessarie garanzie al fine di <u>soddisfare\
+  \ i requisiti del presente regolamento e tutelare i diritti degli interessati</u>.*\n\
+  \n*2. Il titolare del trattamento mette in atto misure tecniche e organizzative\
+  \ adeguate per garantire che siano trattati, <u>per impostazione predefinita</u>,\
+  \ <u>solo i dati personali necessari per ogni specifica finalit\xE0 del trattamento</u>.\
+  \ Tale obbligo vale per la <u>quantit\xE0</u> dei dati personali raccolti, la <u>portata\
+  \ del trattamento</u>, il <u>periodo di conservazione</u> e l'<u>accessibilit\xE0\
+  </u>. In particolare, dette misure garantiscono che, per impostazione predefinita,\
+  \ non siano resi accessibili dati personali a un numero indefinito di persone fisiche\
+  \ senza l'intervento della persona fisica.*\".\n\n## Principi applicabili al trattamento\
+  \ dei dati personali\n\nL'art. 5, comma 1, del Regolamento stabilisce i principi\
+  \ applicabili al trattamento di dati personali:\n\n* liceit\xE0, correttezza e trasparenza;\n\
+  * limitazione della finalit\xE0;\n* minimizzazione dei dati;\n* esattezza;\n* limitazione\
+  \ della conservazione;\n* integrit\xE0 e riservatezza.\n\nIn particolare, ai sensi\
+  \ dell'art. 6, comma 1, del Regolamento \"*il trattamento \xE8 lecito solo se e\
+  \ nella misura in cui ricorre almeno una delle seguenti condizioni:*\n\n*a) l'interessato\
+  \ ha espresso il <u>consenso</u> al trattamento dei propri dati personali per una\
+  \ o pi\xF9 specifiche finalit\xE0;*\n\n*b) il trattamento \xE8 necessario all'esecuzione\
+  \ di un <u>contratto</u> di cui l'interessato \xE8 parte o all'esecuzione di misure\
+  \ precontrattuali adottate su richiesta dello stesso;*\n\n*c) il trattamento \xE8\
+  \ necessario per <u>adempiere un obbligo legale</u> al quale \xE8 soggetto il titolare\
+  \ del trattamento;*\n\n*d) il trattamento \xE8 necessario per la <u>salvaguardia\
+  \ degli interessi vitali</u> dell'interessato o di un'altra persona fisica;*\n\n\
+  *e) il trattamento \xE8 necessario per l'<u>esecuzione di un compito di interesse\
+  \ pubblico o connesso all'esercizio di pubblici poteri</u> di cui \xE8 investito\
+  \ il titolare del trattamento;*\n\n*f) il trattamento \xE8 necessario per il perseguimento\
+  \ del <u>legittimo interesse</u> del titolare del trattamento o di terzi, <u>a condizione\
+  \ che non prevalgano gli interessi o i diritti e le libert\xE0 fondamentali dell'interessato</u>\
+  \ che richiedono la protezione dei dati personali, in particolare se l'interessato\
+  \ \xE8 un minore.*\".\n\nSi ricorda che l\u2019art. 7 del Regolamento indica le\
+  \ modalit\xE0 con le quali richiedere il consenso (in particolare, la richiesta\
+  \ di consenso deve essere \u201C*presentata in modo chiaramente distinguibile dalle\
+  \ altre materie, in forma comprensibile e facilmente accessibile, utilizzando un\
+  \ linguaggio semplice e chiaro*\u201D. Inoltre, ai sensi dell\u2019art. 8, comma\
+  \ 1, del Regolamento \u201C*Qualora si applichi l'articolo 6, paragrafo 1, lettera\
+  \ a), per quanto riguarda l'offerta diretta di servizi della societ\xE0 dell'informazione\
+  \ ai minori, il trattamento di dati personali del minore \xE8 lecito ove il minore\
+  \ abbia almeno 16 anni. Ove il minore abbia un'et\xE0 inferiore ai 16 anni, tale\
+  \ trattamento \xE8 lecito soltanto se e nella misura in cui tale consenso \xE8 prestato\
+  \ o autorizzato dal titolare della responsabilit\xE0 genitoriale. Gli stati membri\
+  \ possono stabilire per legge un\u2019et\xE0 inferiore a tali fini purch\xE9 non\
+  \ inferiore a 13 anni.*\u201D\n\nIn Italia, l\u2019art. 2-quinquies, comma 1, D.\
+  \ Lgs. 196/2003 ha stabilito che \u201C*In attuazione dell'articolo 8, paragrafo\
+  \ 1, del Regolamento, il minore che ha compiuto i quattordici anni puo' esprimere\
+  \ il consenso al trattamento dei propri dati personali in relazione all'offerta\
+  \ diretta di servizi della societ\xE0 dell'informazione.*\u201D\n\nInoltre:\n\n\
+  a) l'art. 9, comma 1, del Regolamento vieta il trattamento di categorie particolari\
+  \ di dati personali (\"*dati personali che rivelino l'origine razziale o etnica,\
+  \ le opinioni politiche, le convinzioni religiose o filosofiche, o l'appartenenza\
+  \ sindacale, dati genetici, dati biometrici intesi a identificare in modo univoco\
+  \ una persona fisica, dati relativi alla salute o alla vita sessuale o all'orientamento\
+  \ sessuale della persona*\") se non ricorrono le condizioni previste dall'art. 9,\
+  \ comma 2, del Regolamento, e\n\nb) l'art. 10 del Regolamento consente il trattamento\
+  \ dei dati personali relativi a condanne penali e reati soltanto sotto il controllo\
+  \ dell'autorit\xE0 pubblica o se il trattamento \xE8 autorizzato dal diritto dell'Unione\
+  \ o degli Stati membri che preveda garanzie appropriate per i diritti e le libert\xE0\
+  \ degli interessati.\n\n### Attivit\xE0 da eseguire\n\nAdottare un modello gestionale\
+  \ idoneo a:\n* conseguire e documentare il rispetto dei principi di cui all'art.\
+  \ 5, comma 1, del Regolamento,\n* conseguire e documentare il rispetto delle condizioni\
+  \ di liceit\xE0 di cui all'art. 6, comma 1, del Regolamento, e\n* conseguire e documentare\
+  \ il rispetto dei vincoli di cui agli artt. 9 e 10 del Regolamento.\n\n<u>Valutare</u>\
+  \ per ciascuna tipologia di trattamento di dati personali:\n\n* il rispetto dei\
+  \ principi di cui all'art. 5, comma 1, del Regolamento,\n* la sussistenza dei presupposti\
+  \ di liceit\xE0 di cui all'art. 6, comma 1, del Regolamento, e\n* il rispetto dei\
+  \ vincoli di cui agli artt. 9 e 10 del Regolamento.\n\n### Documenti da redigere\n\
+  \n<u>Modello gestionale</u> (vedi Allegato A - \"*Checklist del modello gestionale*\"\
+  ).\n\nDocumentazione dell'<u>analisi del rispetto dei principi di cui all'art. 5,\
+  \ comma 1, del Regolamento, della la sussistenza dei presupposti di liceit\xE0 di\
+  \ cui all'art. 6, comma 1, del Regolamento e del rispetto dei vincoli di cui agli\
+  \ artt. 9 e 10 del Regolamento</u>.\n\n## Informazioni agli interessati\n\nQuando\
+  \ raccoglie dati presso l'interessato il titolare gli deve fornire le informazioni\
+  \ previste dall'art. 13 del Regolamento.<br />\nSe non ottiene i dati presso l'interessato,\
+  \ il titolare gli deve fornire le informazioni previste dall'art. 14, comma 1 e\
+  \ 2, del Regolamento entro il termine previsto all'art. 14, comma 3, fatto salvo\
+  \ il caso in cui ricorrano le condizioni di cui all'art. 14, comma 5.\n\n### Attivit\xE0\
+  \ da eseguire\n\n<u>Adottare un modello gestionale</u> idoneo a conseguire e documentare\
+  \ la fornitura dell'informativa agli interessati ai sensi degli artt. 13 e 14 del\
+  \ Regolamento per ciascuna tipologia di trattamento.\n\n<u>Fornire l'informativa</u>\
+  \ sul trattamento dei dati personali agli interessati ai sensi degli artt. 13 e\
+  \ 14 del Regolamento.\n\n### Documenti da redigere\n\n<u>Modello gestionale</u>\
+  \ (vedi Allegato A - \"*Checklist del modello gestionale*\").\n\n<u>Informativa</u>\
+  \ ai sensi degli artt. 13 e 14 del Regolamento per ciascuna tipologia di trattamento\
+  \ dei dati personali (vedi Allegato B - \"<u>Checklist di verifica dei contenuti\
+  \ dell'informativa sul trattamento dei dati</u>\").\n\n## Diritti degli interessati\n\
+  \nIl titolare deve approntare le misure idonee a consentire agli interessati l'esercizio\
+  \ dei loro diritti:\n* diritto di accesso ai sensi dell'art. 15 del Regolamento,\n\
+  * diritto di rettifica ai sensi dell'art. 16 del Regolamento,\n* diritto alla cancellazione\
+  \ ai sensi dell'art. 17 del Regolamento,\n* diritto di limitazione di trattamento\
+  \ ai sensi dell'art. 18 del Regolamento,\n* diritto alla portabilit\xE0 dei dati\
+  \ ai sensi dell'art. 20 del Regolamento,\n* diritto di opposizione ai sensi dell'art.\
+  \ 21 del Regolamento per i trattamenti realizzati ai sensi dell'articolo 6, paragrafo\
+  \ 1, lettere e) o f), compresa la profilazione. In questo caso vi dovrete astenere\
+  \ dal trattare ulteriormente i dati personali salvo che dimostriate l'esistenza\
+  \ di motivi legittimi cogenti per procedere al trattamento che prevalgono sugli\
+  \ interessi,sui diritti e sulle libert\xE0 dell'interessato oppure per l'accertamento,\
+  \ l'esercizio o la difesa di un diritto in sede giudiziaria,\n* diritto di non essere\
+  \ sottoposto a una decisione basata unicamente sul trattamento automatizzato, compresa\
+  \ la profilazione, che produca effetti giuridici che lo riguardano o che incida\
+  \ in modo analogo significativamente sulla sua persona ai sensi dell'art. 22 del\
+  \ Regolamento.\n\nInoltre, ai sensi dell'art. 19 del Regolamento, il titolare del\
+  \ trattamento deve inviare notifiche agli interessati in caso di rettifica o cancellazione\
+  \ dei dati personali o limitazione del trattamento.\n\n### Attivit\xE0 da eseguire\n\
+  \n<u>Adottare un modello gestionale</u> idoneo a conseguire e documentare la gestione\
+  \ delle richieste degli interessati ai sensi degli artt. 15-22 del Regolamento.\n\
+  \n<u>Se e quando necessario</u>, gestire le (e replicare alle) richieste degli interessati\
+  \ ai sensi degli artt. 15-22 del Regolamento.\n\n### Documenti da redigere\n\n<u>Modello\
+  \ gestionale</u> (vedi Allegato A - \"*Checklist del modello gestionale*\").\n\n\
+  Se e quando necessarie, <u>repliche alle richieste degli interessati</u> ai sensi\
+  \ degli artt. 15-22 del Regolamento.\n\n## Rapporti con terzi\n\nAi sensi dell'art.\
+  \ 26, comma 1, del Regolamento \"*allorch\xE9 due o pi\xF9 titolari del trattamento\
+  \ determinano congiuntamente le finalit\xE0 e i mezzi del trattamento, essi sono\
+  \ contitolari del trattamento. Essi determinano in modo trasparente, mediante un\
+  \ <u>accordo interno</u>, le rispettive responsabilit\xE0 in merito all'osservanza\
+  \ degli obblighi derivanti dal presente regolamento, con particolare riguardo all'esercizio\
+  \ dei diritti dell'interessato, e le rispettive funzioni di comunicazione delle\
+  \ informazioni di cui agli articoli 13 e 14, a meno che e nella misura in cui le\
+  \ rispettive responsabilit\xE0 siano determinate dal diritto dell'Unione o dello\
+  \ Stato membro cui i titolari del trattamento sono soggetti. Tale accordo pu\xF2\
+  \ designare un punto di contatto per gli interessati.*\".\n\nAi sensi del comma\
+  \ 2 dello stesso articolo, il contenuto essenziale dell'accordo \xE8 messo a disposizione\
+  \ degli interessati.\n\nIl trattamento da parte di un responsabile del trattamento\
+  \ \xE8 disciplinato da un <u>contratto o</u> da <u>altro atto giuridico</u> con\
+  \ il contenuto dettagliatamente previsto dall'art. 28, comma 3, del Regolamento.\n\
+  \n#{k11e2521bf14f}#{k7eb2d3290585}#{kc28d7ffac981}\n\n### Attivit\xE0 da eseguire\n\
+  \nAdottare un modello gestionale idoneo a: #{k94ec2aee067e}#{k83dd2c427596}#{ka1e13fc9bb99}\n\
+  \n### Documenti da redigere\n\nModello gestionale (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\n#{kcd52dccb3f7d}#{k852413a8a05e}#{kf3d485863878}\n\
+  \n#{kbb88f8ed060a}#{k4307ebb00c7a}#{k009d3cd47d47}\n\n## Istruzioni agli incaricati\
+  \ del trattamento\n\nAi sensi dell'art. 29 del Regolamento chiunque agisca sotto\
+  \ l'autorit\xE0 del titolare del trattamento deve trattare i dati secondo le istruzioni\
+  \ impartite dal titolare.\n\n#{k4d150052c485}#{k22cbcc0dfc0f}\n\n### Attivit\xE0\
+  \ da eseguire\n\nAdottare un modello gestionale idoneo a: #{kf46c34affb72}#{k8d37242824b9}\n\
+  \n### Documenti da redigere\n\nModello gestionale (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\n#{k891d9e98da48}#{k4a7f13c6ee3a}\n\n## Registro\
+  \ delle attivit\xE0 di trattamento\n\n#{k757cec4e9bc0}#{k26a0b94f28fb}#{k9189a70c6654}\n\
+  \n### Attivit\xE0 da eseguire\n\nAdottare un modello gestionale idoneo a: #{kb0e75da95709}#{ka4d11d447ec9}#{kb23127a0ab96}\n\
+  \n### Documenti da redigere\n\nModello gestionale (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\n#{kafdcfa811786}#{k34c0dae3e173}#{k9d8427c8b239}\n\
+  \n## Sicurezza del trattamento\n\nAi sensi dell'art. 5, comma 1, lettera (f) del\
+  \ Regolamento i dati personali sono \"*trattati in maniera da garantire un'adeguata\
+  \ sicurezza dei dati personali, compresa la protezione, mediante misure tecniche\
+  \ e organizzative adeguate, da trattamenti non autorizzati o illeciti e dalla perdita,\
+  \ dalla distruzione o dal danno accidentali (\xABintegrit\xE0 e riservatezza\xBB\
+  ).*\"\n\nAi sensi dell'art. 32, commi 1 e 2, del Regolamento\n\n\"*1. Tenendo conto\
+  \ dello stato dell'arte e dei costi di attuazione, nonch\xE9 della natura, dell'oggetto,\
+  \ del contesto e delle finalit\xE0 del trattamento, come anche del rischio di varia\
+  \ probabilit\xE0 e gravit\xE0 per i diritti e le libert\xE0 delle persone fisiche,\
+  \ il titolare del trattamento e il responsabile del trattamento mettono in atto\
+  \ misure tecniche e organizzative adeguate per garantire un <u>livello di sicurezza\
+  \ adeguato al rischio</u>, che comprendono, tra le altre, se del caso:*\n\n*a) la\
+  \ pseudonimizzazione e la cifratura dei dati personali;*\n\n*b) la capacit\xE0 di\
+  \ assicurare su base permanente la riservatezza, l'integrit\xE0, la disponibilit\xE0\
+  \ e la resilienza dei sistemi e dei servizi di trattamento;*\n\n*c) la capacit\xE0\
+  \ di ripristinare tempestivamente la disponibilit\xE0 e l'accesso dei dati personali\
+  \ in caso di incidente fisico o tecnico;*\n\n*d) una procedura per testare, verificare\
+  \ e valutare regolarmente l'efficacia delle misure tecniche e organizzative al fine\
+  \ di garantire la sicurezza del trattamento.*\n\n*2. Nel valutare l'adeguato livello\
+  \ di sicurezza, si tiene conto in special modo dei rischi presentati dal trattamento\
+  \ che derivano in particolare dalla distruzione, dalla perdita, dalla modifica,\
+  \ dalla divulgazione non autorizzata o dall'accesso, in modo accidentale o illegale,\
+  \ a dati personali trasmessi, conservati o comunque trattati.*\".\n\n### Attivit\xE0\
+  \ da eseguire\n\n<u>Adottare un modello gestionale</u> idoneo a garantire un livello\
+  \ di sicurezza adeguato al rischio ai sensi dell'art. 32 del Regolamento per le\
+  \ diverse tipologie di trattamento dei dati personali.\n\n### Documenti da redigere\n\
+  \nModello gestionale (vedi Allegato A - \"*Checklist del modello gestionale*\").\n\
+  \nDocumentazione dell'analisi di adeguatezza delle misure tecniche ed organizzative\
+  \ adottate ai sensi dell'art. 32 del Regolamento.\n\n## Obblighi in caso di violazione\
+  \ dei dati personali: notifica al Garante della Privacy e comunicazione all'interessato\n\
+  \nAi sensi dell'art. 33 del Regolamento, in caso di violazione dei dati personali,\
+  \ il titolare del trattamento notifica la violazione al Garante della Privacy senza\
+  \ ingiustificato ritardo e, ove possibile, entro 72 ore dal momento in cui ne \xE8\
+  \ venuto a conoscenza, a meno che sia improbabile che la violazione dei dati personali\
+  \ presenti un rischio per i diritti e le libert\xE0 delle persone fisiche.\n\nAi\
+  \ sensi dell'art. 34 del Regolamento, quando la violazione dei dati personali \xE8\
+  \ suscettibile di presentare un rischio elevato per i diritti e le libert\xE0 delle\
+  \ persone fisiche, il titolare del trattamento comunica la violazione all'interessato\
+  \ senza ingiustificato ritardo.\n\n### Attivit\xE0 da eseguire\n\n<u>Adottare un\
+  \ modello gestionale</u> idoneo a:\n* <u>valutare</u> se e quando eseguire la notifica\
+  \ al Garante della Privacy e la comunicazione all'interessato,\n* eseguire la <u>notifica\
+  \ al Garante</u> della Privacy, se e quando necessaria,\n* eseguire la <u>comunicazione\
+  \ all'interessato</u>, se e quando necessaria.\n\n### Documenti da redigere\n\n\
+  <u>Modello gestionale</u> (vedi Allegato A - \"*Checklist del modello gestionale*\"\
+  ).\n\nSe e quando necessaria, <u>notifica al Garante</u> della Privacy.\n\nSe e\
+  \ quando necessaria, <u>comunicazione all'interessato</u>.\n\n## Valutazione d'impatto\
+  \ sulla protezione dei dati\n\nAi sensi dell'art. 35 del Regolamento, quando un\
+  \ tipo di trattamento, allorch\xE9 prevede in particolare l'uso di nuove tecnologie,\
+  \ considerati la natura, l'oggetto, il contesto e le finalit\xE0 del trattamento,\
+  \ pu\xF2 presentare un rischio elevato per i diritti e le libert\xE0 delle persone\
+  \ fisiche, il titolare del trattamento effettua, prima di procedere al trattamento,\
+  \ una valutazione dell'impatto dei trattamenti previsti sulla protezione dei dati\
+  \ personali.\n\nAi sensi dell'art. 35, comma 4, del Regolamento, il Garante della\
+  \ Privacy redige e rende pubblico un elenco delle tipologie di trattamenti soggetti\
+  \ al requisito di una valutazione d'impatto sulla protezione dei dati.\n\nAi sensi\
+  \ dell'art. 35, comma 5, del Regolamento, il Garante della Privacy pu\xF2 inoltre\
+  \ redigere e rendere pubblico un elenco delle tipologie di trattamenti per le quali\
+  \ non \xE8 richiesta una valutazione d'impatto sulla protezione dei dati.\n\nTali\
+  \ elenchi ad oggi non sono disponibili.\n\nIn attesa che il Garante della Privacy\
+  \ renda pubblici gli elenchi di cui sopra, al fine di valutare se per una o pi\xF9\
+  \ dei tipi di trattamento sussiste un rischio elevato per i diritti e le libert\xE0\
+  \ delle persone, \xE8 utile tenere conto delle indicazioni fornite dal Gruppo di\
+  \ Lavoro Articolo 29 per la Protezione dei Dati con le Linee guida in materia di\
+  \ valutazione d'impatto sulla protezione dei dati e determinazione della possibilit\xE0\
+  \ che il trattamento &quot;possa presentare un rischio elevato&quot; ai fini del\
+  \ regolamento (UE) 2016/679 adottate il 4 aprile 2017 come modificate e adottate\
+  \ da ultimo il 4 ottobre 2017 (di seguito \"**Linee Guida**\").\n\nLe Linee Guida\
+  \ stabiliscono che al fine di valutare quali tipi di trattamenti implicano un rischio\
+  \ elevato, si devono considerare 9 criteri:\n1. <u>Valutazione o assegnazione di\
+  \ un punteggio</u>, inclusiva di profilazione e previsione, in particolare in considerazione\
+  \ di &quot;aspetti riguardanti il rendimento professionale, la situazione economica,\
+  \ la salute, le preferenze o gli interessi personali, l'affidabilit\xE0 o il comportamento,\
+  \ l'ubicazione o gli spostamenti dell'interessato\n2. <u>processo decisionale automatizzato\
+  \ che ha effetto giuridico o incide in modo analogo significativamente</u>\n3. <u>monitoraggio\
+  \ sistematico</u>\n4. <u>dati sensibili o dati aventi carattere altamente personale</u>\n\
+  5. <u>trattamento di dati su larga scala</u>\n6. <u>creazione di corrispondenze\
+  \ o combinazione di insiemi di dati</u>, ad esempio a partire da dati derivanti\
+  \ da due o pi\xF9 operazioni di trattamento svolte per finalit\xE0 diverse e/o da\
+  \ titolari del trattamento diversi secondo una modalit\xE0 che va oltre le ragionevoli\
+  \ aspettative dell'interessato\n7. <u>dati relativi a interessati vulnerabili</u>\
+  \ (es. minori)\n8. <u>uso innovativo o applicazione di nuove soluzioni tecnologiche\
+  \ od organizzative</u>\n9. quando <u>il trattamento in s&eacute; &quot;impedisce\
+  \ agli interessati di esercitare un diritto</u> o di avvalersi di un servizio o\
+  \ di un contratto.\n\nNelle Linee Guida si legge quanto segue.\n\n\"*Nella maggior\
+  \ parte dei casi, un titolare del trattamento pu\xF2 considerare che <u>un trattamento\
+  \ che soddisfi due criteri debba formare oggetto di una valutazione d'impatto sulla\
+  \ protezione dei dati</u>. In generale, il WP29 ritiene che maggiore \xE8 il numero\
+  \ di criteri soddisfatti dal trattamento, pi\xF9 \xE8 probabile che sia presente\
+  \ un rischio elevato per i diritti e le libert\xE0 degli interessati e, di conseguenza,\
+  \ che sia necessario realizzare una valutazione d'impatto sulla protezione dei dati,\
+  \ indipendentemente dalle misure che il titolare del trattamento ha previsto di\
+  \ adottare.*\n\n*Tuttavia, in alcuni casi, un titolare del trattamento pu\xF2 ritenere\
+  \ che un trattamento che soddisfa soltanto uno di questi criteri richieda una valutazione\
+  \ d'impatto sulla protezione dei dati.*\".\n\n#{k31cd2cb92edc}#{k6adb102a9f9b}#{k5732885b0e95}\n\
+  \n### Attivit\xE0 da eseguire\n\n<u>Adottare un modello gestionale</u> idoneo a:\
+  \ #{k8783177bf420}#{k3d7226c8396a}#{k055f0628beec}\n\n### Documenti da redigere\n\
+  \nModello gestionale (vedi Allegato A - \"*Checklist del modello gestionale*\").\n\
+  \n#{k965a5a601e6d}#{kbdf9d8d74de8}#{k6ab5e5d8ab23}\n\n## Consultazione preventiva\n\
+  \nAi sensi dell'art. 36 del Regolamento il titolare del trattamento, prima di procedere\
+  \ al trattamento, consulta il Garante della Privacy qualora la valutazione d'impatto\
+  \ sulla protezione dei dati a norma dell'articolo 35 indichi che il trattamento\
+  \ presenterebbe un rischio elevato in assenza di misure adottate dal titolare del\
+  \ trattamento per attenuare il rischio.\n\n### Attivit\xE0 da eseguire\n\n<u>Adottare\
+  \ un modello gestionale</u> idoneo a valutare se e quando eseguire la consultazione\
+  \ preventiva.\n\nEseguire la <u>consultazione preventiva</u>, se e quando necessaria.\n\
+  \n### Documenti da redigere\n\n<u>Modello gestionale</u> (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\nSe e quando necessaria, <u>consultazione preventiva</u>.\n\
+  \n## Designazione del responsabile della protezione dei dati\n\n#{k87c89500ebdb}#{k8bf41c120f8c}#{kb965fce253a2}\n\
+  \n### Attivit\xE0 da eseguire\n\nAdottare un modello gestionale idoneo a: #{k51059732df96}#{k6940539ca2c7}#{k0dce675587d9}\n\
+  \n### Documenti da redigere\n\nModello gestionale (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\n#{k6e20b00e107a}#{k37eced2bb445}#{kbcfe92ea435a}\n\
+  \n## Codici di condotta e certificazione\n\nAi sensi dell'art. 40 del Regolamento\
+  \ possono essere adottati codici di condotta destinati a contribuire alla corretta\
+  \ applicazione del Regolamento.\n\nAi sensi dell'art. 42 del Regolamento possono\
+  \ essere istituiti meccanismi di certificazione della protezione dei dati nonch&eacute;\
+  \ sigilli e marchi di protezione dei dati allo scopo di dimostrare la conformit\xE0\
+  \ al Regolamento dei trattamenti effettuati.\n\nAi sensi degli artt. 24, comma 3,\
+  \ 25, comma 3, e 32, comma 3, del Regolamento, l'adesione a un codice di condotta\
+  \ approvato di cui all'articolo 40 o a un meccanismo di certificazione approvato\
+  \ di cui all'articolo 42 pu\xF2 essere utilizzata come elemento per dimostrare la\
+  \ conformit\xE0 delle misure.\n\n### Attivit\xE0 da eseguire\n\n<u>Adottare un modello\
+  \ gestionale</u> idoneo a:\n* valutare se e quando aderire a codici di condotta\
+  \ e/o realizzare certificazioni;\n* documentare l'adesione a codici di condotta,\
+  \ se e quando possibile ed opportuno;\n* documentare l'ottenimento di certificazioni,\
+  \ se e quando possibile ed opportuno.\n\n### Documenti da redigere\n\nModello gestionale\
+  \ (vedi Allegato A - \"*Checklist del modello gestionale*\").\n\nSe e quando possibile\
+  \ ed opportuno, documentare l'<u>adesione a codici di condotta</u> e/o l'ottenimento\
+  \ di <u>certificazioni</u>.\n\n## Trasferimento dei dati all'estero\n\n#{k1140fa25c4c5}#{ka8d9093e38cf}#{kaa29f86bbef5}\n\
+  \nAi sensi degli artt. 44-50 del Regolamento il trasferimento di dati personali\
+  \ verso un paese terzo o un'organizzazione internazionale \xE8 ammesso se:\n\n*\
+  \ la Commissione ha deciso che il paese terzo, un territorio o uno o pi\xF9 settori\
+  \ specifici all'interno del paese terzo, o l'organizzazione internazionale in questione\
+  \ garantiscono un livello di protezione adeguato;\n* il titolare del trattamento\
+  \ o il responsabile del trattamento ha fornito garanzie adeguate e a condizione\
+  \ che gli interessati dispongano di diritti azionabili e mezzi di ricorso effettivi;\n\
+  * l'interessato abbia esplicitamente acconsentito al trasferimento proposto, dopo\
+  \ essere stato informato dei possibili rischi di siffatti trasferimenti per l'interessato,\
+  \ dovuti alla mancanza di una decisione di adeguatezza e di garanzie adeguate;\n\
+  * il trasferimento sia necessario all'esecuzione di un contratto concluso tra l'interessato\
+  \ e il titolare del trattamento ovvero all'esecuzione di misure precontrattuali\
+  \ adottate su istanza dell'interessato;\n* il trasferimento sia necessario per la\
+  \ conclusione o l'esecuzione di un contratto stipulato tra il titolare del trattamento\
+  \ e un'altra persona fisica o giuridica a favore dell'interessato;\n* il trasferimento\
+  \ sia necessario per importanti motivi di interesse pubblico;\n* il trasferimento\
+  \ sia necessario per accertare, esercitare o difendere un diritto in sede giudiziaria;\n\
+  * il trasferimento sia necessario per tutelare gli interessi vitali dell'interessato\
+  \ o di altre persone, qualora l'interessato si trovi nell'incapacit\xE0 fisica o\
+  \ giuridica di prestare il proprio consenso;\n* il trasferimento sia effettuato\
+  \ a partire da un registro che, a norma del diritto dell'Unione o degli Stati membri,\
+  \ mira a fornire informazioni al pubblico e pu\xF2 esser consultato tanto dal pubblico\
+  \ in generale quanto da chiunque sia in grado di dimostrare un legittimo interesse,\
+  \ solo a condizione che sussistano i requisiti per la consultazione previsti dal\
+  \ diritto dell'Unione o degli Stati membri.\n\n### Attivit\xE0 da eseguire\n\n<u>Adottare\
+  \ un modello gestionale</u> idoneo a: #{k3f320a266f71}#{ka13dc3b8369c}#{kd631e0cb9a5c}\n\
+  \n### Documenti da redigere\n\nModello gestionale (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\n#{kfd95c8a1feef}#{kca1fd3690b31}#{k84e79eb320e9}\n\
+  \n## Cookie\n\nRestano in vigore gli obblighi in materia di cookie e altri dispositivi\
+  \ installati da o per il tramite del proprio sito attualmente previsti dalle norme\
+  \ applicabili (art. 122 del d. Lgs. 196/2003 e provvedimento n. 229 dell'8 maggio\
+  \ 2014 \"*Individuazione delle modalit\xE0 semplificate per l'informativa e l'acquisizione\
+  \ del consenso per l'uso dei cookie*\" e pertanto, nel momento in cui si accede\
+  \ alla home page (o ad altra pagina) di un sito web, deve immediatamente comparire\
+  \ in primo piano un banner di idonee dimensioni contenente le seguenti indicazioni:\n\
+  \na) che il sito utilizza cookie di profilazione al fine di inviare messaggi pubblicitari\
+  \ in linea con le preferenze manifestate dall'utente nell'ambito della navigazione\
+  \ in rete;\n\nb) che il sito consente anche l'invio di cookie &quot;terze parti&quot;\
+  \ (laddove ci\xF2 ovviamente accada);\n\nc) il link all'informativa estesa, che\
+  \ deve contenere le seguenti ulteriori indicazioni relative a:\n\n* uso dei cookie\
+  \ tecnici e analytics;\n* possibilit\xE0 di scegliere quali specifici cookie autorizzare;\n\
+  * possibilit\xE0 per l'utente di manifestare le proprie opzioni in merito all'uso\
+  \ dei cookie da parte del sito anche attraverso le impostazioni del browser, indicando\
+  \ almeno la procedura da eseguire per configurare tali impostazioni;\n\nd) l'indicazione\
+  \ che alla pagina dell'informativa estesa \xE8 possibile negare il consenso all'installazione\
+  \ di qualunque cookie;\n\ne) l'indicazione che la prosecuzione della navigazione\
+  \ mediante accesso ad altra area del sito o selezione di un elemento dello stesso\
+  \ (ad esempio, di un'immagine o di un link) comporta la prestazione del consenso\
+  \ all'uso dei cookie.\n\nInoltre, ai fini di mantenere distinta la responsabilit\xE0\
+  \ dei gestori di siti web da quella delle terze parti si deve acquisire gi\xE0 in\
+  \ fase contrattuale i collegamenti (link) alle pagine web contenenti le informative\
+  \ e i moduli per l'acquisizione del consenso relativo ai cookie delle terze parti.\n\
+  \n#{k36160a1119a4}#{kb7f56d7f4da6}#{k71572ef41f82}\n\n### Attivit\xE0 da eseguire\n\
+  \n<u>Adottare un modello gestionale</u> idoneo a: #{ka53f79b24015}#{kae6dab6c503d}#{k7b78d769cf01}\n\
+  \n### Documenti da redigere\n\n<u>Modello gestionale</u> (vedi Allegato A - \"*Checklist\
+  \ del modello gestionale*\").\n\n#{kdc4d855e5c50}#{kb66a9ae7f932}#{k507724299e9e}\n\
+  \n<hr />\n### <u>Allegato A</u>\n\n## Checklist del modello gestionale\n\nIl modello\
+  \ gestionale delle procedure da adottare per conseguire l'adeguamento al Regolamento\
+  \ deve essere:\n* redatto attivando competenze gestionali-organizzative,\n* #{k06a694969fac}#{k0004587d3090}#{k32bbaed7bfcb},\n\
+  * eseguito con competenze legali e tecnico-informatiche,\n* idoneo a realizzare\
+  \ le attivit\xE0 previste nella \"*Checklist di sintesi*\".\n\nPer ciascuna delle\
+  \ misure indicate nella \"*Checklist di sintesi*\" il modello gestionale potrebbe\
+  \ per esempio indicare:\n* la persona incaricata,\n* le modalit\xE0 di esecuzione\
+  \ dell'incarico, compresa la verifica periodica per valutarne l'aggiornamento,\n\
+  * le risorse a disposizione dell'incaricato,\n* la persona alla quale l'incaricato\
+  \ deve relazionare,\n* le modalit\xE0 di relazione dell'incaricato.\n\n#{k21633ec7c2f3}\n\
+  \n<hr />\n### <u>Allegato B</u>\n\n## Checklist di verifica dei contenuti dell'informativa\
+  \ sul trattamento dei dati personali\n\n<u>Contenuti necessari sempre</u>\n* l'identit\xE0\
+  \ e i dati di contatto del titolare del trattamento\n* le finalit\xE0 del trattamento\
+  \ cui sono destinati i dati personali\n* la base giuridica del trattamento\n* gli\
+  \ eventuali destinatari o le eventuali categorie di destinatari dei dati personali\n\
+  * il periodo di conservazione dei dati personali oppure, se non \xE8 possibile,\
+  \ i criteri utilizzati per determinare tale periodo\n* l'esistenza del diritto dell'interessato\
+  \ di chiedere al titolare del trattamento l'accesso ai dati personali e la rettifica\
+  \ o la cancellazione degli stessi o la limitazione del trattamento che lo riguardano\
+  \ o di opporsi al loro trattamento, oltre al diritto alla portabilit\xE0 dei dati\n\
+  * il diritto di proporre reclamo a un'autorit\xE0 di controllo\n* se la comunicazione\
+  \ di dati personali \xE8 un obbligo legale o contrattuale oppure un requisito necessario\
+  \ per la conclusione di un contratto, e se l'interessato ha l'obbligo di fornire\
+  \ i dati personali nonch\xE9 le possibili conseguenze della mancata comunicazione\
+  \ di tali dati\n* l'esistenza di un processo decisionale automatizzato, compresa\
+  \ la profilazione di cui all'articolo 22, paragrafi 1 e 4, e, almeno in tali casi,\
+  \ informazioni significative sulla logica utilizzata, nonch\xE9 l'importanza e le\
+  \ conseguenze previste di tale trattamento per l'interessato\n\n<u>Contenuti necessari\
+  \ in certi casi</u>\n* l'identit\xE0 e i dati di contatto del rappresentante del\
+  \ titolare del trattamento\n* i dati di contatto del responsabile della protezione\
+  \ dei dati\n* i legittimi interessi perseguiti dal titolare del trattamento o da\
+  \ terzi\n* l'intenzione del titolare del trattamento di trasferire dati personali\
+  \ a un paese terzo o a un'organizzazione internazionale e l'esistenza o l'assenza\
+  \ di una decisione di adeguatezza della Commissione o, nel caso dei trasferimenti\
+  \ di cui all'articolo 46 o 47, o all'articolo 49, secondo comma, il riferimento\
+  \ alle garanzie appropriate o opportune e i mezzi per ottenere una copia di tali\
+  \ dati o il luogo dove sono stati resi disponibili\n* l'esistenza del diritto di\
+  \ revocare il consenso in qualsiasi momento senza pregiudicare la liceit\xE0 del\
+  \ trattamento basata sul consenso prestato prima della revoca\n\n<hr />\n### <u>Allegato\
+  \ C</u>\n\n##  Checklist dei contenuti del registro delle attivit\xE0 di trattamento\n\
+  \nIl registro del titolare del trattamento contiene tutte le seguenti informazioni:\n\
+  \na) il nome e i dati di contatto del titolare del trattamento e, ove applicabile,\
+  \ del contitolare del trattamento, del rappresentante del titolare del trattamento\
+  \ e del responsabile della protezione dei dati;\n\nb) le finalit\xE0 del trattamento;\n\
+  \nc) una descrizione delle categorie di interessati e delle categorie di dati personali;\n\
+  \nd) le categorie di destinatari a cui i dati personali sono stati o saranno comunicati,\
+  \ compresi i destinatari di paesi terzi od organizzazioni internazionali;\n\ne)\
+  \ ove applicabile, i trasferimenti di dati personali verso un paese terzo o un'organizzazione\
+  \ internazionale, compresa l'identificazione del paese terzo o dell'organizzazione\
+  \ internazionale e, per i trasferimenti di cui al secondo comma dell'articolo 49,\
+  \ la documentazione delle garanzie adeguate;\n\nf) ove possibile, i termini ultimi\
+  \ previsti per la cancellazione delle diverse categorie di dati;\n\ng) ove possibile,\
+  \ una descrizione generale delle misure di sicurezza tecniche e organizzative di\
+  \ cui all'articolo 32, paragrafo 1.\n\n<hr />\n```\nMemorandum GDPR - Una base di\
+  \ conoscenza per elaborare un memorandum di adeguamento al GDPR\nCopyright (C) 2018\
+  \ - Marco Ciurcina \n\nMemorandum GDPR is free software: you can redistribute it\
+  \ and/or modify\nit under the terms of the GNU Affero General Public License as\n\
+  published by the Free Software Foundation, either version 3 of the\nLicense, or\
+  \ (at your option) any later version.\n\nMemorandum GDPR is distributed in the hope\
+  \ that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty\
+  \ of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU Affero\
+  \ General Public License for more details.\n\nYou should have received a copy of\
+  \ the GNU Affero General Public License\nalong with this program.  If not, see http://www.gnu.org/licenses/.\n\
+  \nThe source code of Memorandum GDPR is available here https://github.com/marco55555/Memorandum_GDPR/\n\
+  ```\n"
+license: null
+outputs:
+  k0004587d3090:
+    _precondition: k09718fd02d06
+    entity: output
+    hash: k0004587d3090
+    html: se si adottano modelli gestionali-organizzativi formalizzati, coordinato
+      con quelli
+    public: true
+    title: Voi ISO No
+    visible: true
+  k009d3cd47d47:
+    _precondition: k7cc9a16737e3
+    entity: output
+    hash: k009d3cd47d47
+    html: Se e quando necessari, <u>contratti o altri atti giuridici con i responsabili
+      del trattamento</u>.
+    public: true
+    title: Terzi Forse Documenti Responsabili
+    visible: true
+  k055f0628beec:
+    _precondition: k43566d0c8c28
+    entity: output
+    hash: k055f0628beec
+    html: '
+
+      * <u>eseguire la valutazione d''impatto</u> sulla protezione dei dati.'
+    public: true
+    title: "PIA Si Attivit\xE0"
+    visible: true
+  k06a694969fac:
+    _precondition: k3ab8cb0ff765
+    entity: output
+    hash: k06a694969fac
+    html: coordinato con il modello gestionale ed organizzativo da voi adottato
+    public: true
+    title: Voi ISO Si
+    visible: true
+  k09a780d4e517:
+    _precondition: kec0668804dfc
+    entity: output
+    hash: k09a780d4e517
+    html: X
+    public: true
+    title: Cookie No Elenco
+    visible: true
+  k0dce675587d9:
+    _precondition: k05f1363c6223
+    entity: output
+    hash: k0dce675587d9
+    html: "\n * designare il responsabile della protezione dei dati personali e comunicarne\
+      \ i dati di contatto al Garante per la protezione dei dati personali utilizzando\
+      \ la procedura disponibile all\u2019URL https://servizi.gpdp.it/comunicazione-rpd/."
+    public: true
+    title: "DPO Si Attivit\xE0"
+    visible: true
+  k1140fa25c4c5:
+    _precondition: k06d93c0075db
+    entity: output
+    hash: k1140fa25c4c5
+    html: "Il titolare del trattamento, se trasferisce dati verso un paese al di fuori\
+      \ dell'UE o verso un'organizzazione internazionale, deve valutare la sussistenza\
+      \ dei presupposti di legalit\xE0 del trasferimento. Si ricorda che l'eventuale\
+      \ uso di servizi informatici forniti da terzi pu\xF2 implicare il trasferimento\
+      \ dei dati verso un paese al di fuori dell'UE."
+    public: true
+    title: Estero Forse Testo
+    visible: true
+  k11e2521bf14f:
+    _precondition: k8056e0548731
+    entity: output
+    hash: k11e2521bf14f
+    html: "Avete indicato che vi sono soggetti terzi che tratteranno dati personali\
+      \ per vostro conto e/o determinandone le finalit\xE0 ed i mezzi e pertanto \xE8\
+      \ necessario predisporre gli atti di cui sopra."
+    public: true
+    title: Terzi Si Testo
+    visible: true
+  k162cbda6630d:
+    _precondition: kf267356e3342
+    entity: output
+    hash: k162cbda6630d
+    html: X
+    public: true
+    title: Estero No Elenco
+    visible: true
+  k21633ec7c2f3:
+    _precondition: kb23e094ee730
+    entity: output
+    hash: k21633ec7c2f3
+    html: <u>Si devono inoltre deliberare le deleghe gestionali necessarie per affidare
+      gli incarichi</u>.
+    public: true
+    title: Voi Ente Si
+    visible: true
+  k22cbcc0dfc0f:
+    _precondition: kc694b5865459
+    entity: output
+    hash: k22cbcc0dfc0f
+    html: "Poich\xE9 avete dei dipendenti, dovete redigere le istruzioni secondo le\
+      \ quali devono trattare i dati personali."
+    public: true
+    title: Dipendenti Si Testo
+    visible: true
+  k26a0b94f28fb:
+    _precondition: kfde26f851736
+    entity: output
+    hash: k26a0b94f28fb
+    html: "Poich\xE9 il titolare del trattamento non ha 250 o pi\xF9 dipendenti e\
+      \ il trattamento non pu\xF2 presentare un rischio per i diritti e le libert\xE0\
+      \ dell'interessato, \xE8 occasionale e non include il trattamento di categorie\
+      \ particolari di dati di cui all'articolo 9, paragrafo 1, o dati personali relativi\
+      \ a condanne penali e a reati di cui all'articolo 10 del Regolamento, il titolare\
+      \ del trattamento non deve tenere un registro delle attivit\xE0 di trattamento\
+      \ ai sensi dell'art. 30, comma 1, del Regolamento."
+    public: true
+    title: Registro No Testo
+    visible: true
+  k2708b9426d27:
+    _precondition: kc694b5865459
+    entity: output
+    hash: k2708b9426d27
+    html: X
+    public: true
+    title: Dipendenti Si Elenco
+    visible: true
+  k2bfe983eff75:
+    _precondition: k43566d0c8c28
+    entity: output
+    hash: k2bfe983eff75
+    html: X
+    public: true
+    title: PIA Si Elenco
+    visible: true
+  k2eaf730153a7:
+    _precondition: k59fe9266422d
+    entity: output
+    hash: k2eaf730153a7
+    html: X
+    public: true
+    title: Registro Forse Elenco
+    visible: true
+  k31cd2cb92edc:
+    _precondition: k0e0f1dd559a4
+    entity: output
+    hash: k31cd2cb92edc
+    html: "Nel vostro caso, in base alle informazioni allo stato disponibili, \xE8\
+      \ ragionevole ritenere che il trattamento non implichi un rischio elevato e\
+      \ che quindi la valutazione d'impatto non debba essere realizzata."
+    public: true
+    title: PIA No Testo
+    visible: true
+  k32bbaed7bfcb:
+    _precondition: kc82ff30444b3
+    entity: output
+    hash: k32bbaed7bfcb
+    html: se si adottano modelli gestionali-organizzativi formalizzati, coordinato
+      con quelli
+    public: true
+    title: Voi ISO Forse
+    visible: true
+  k34c0dae3e173:
+    _precondition: k59fe9266422d
+    entity: output
+    hash: k34c0dae3e173
+    html: "Se e quando necessario, <u>registro delle attivit\xE0 di trattamento</u>\
+      \ ai sensi dell'art. 30 del Regolamento (vedi Allegato C - \"*Checklist dei\
+      \ contenuti del registro delle attivit\xE0 di trattamento*\")."
+    public: true
+    title: Registro Forse Documenti
+    visible: true
+  k36160a1119a4:
+    _precondition: k1839466ba40d
+    entity: output
+    hash: k36160a1119a4
+    html: "Dovete valutare la necessit\xE0 di redigere l'informativa e/o il banner\
+      \ cookie."
+    public: true
+    title: Cookie Forse Testo
+    visible: true
+  k37eced2bb445:
+    _precondition: k9b9173b9002b
+    entity: output
+    hash: k37eced2bb445
+    html: Se e quando necessario, atto di <u>designazione del responsabile della protezione
+      dei dati</u>.
+    public: true
+    title: DPO No Documenti
+    visible: true
+  k3d7226c8396a:
+    _precondition: k0e0f1dd559a4
+    entity: output
+    hash: k3d7226c8396a
+    html: '
+
+      * valutare se e quando eseguire la valutazione d''impatto sulla protezione dei
+      dati,
+
+      * <u>eseguire la valutazione d''impatto</u> sulla protezione dei dati, se e
+      quando necessaria.'
+    public: true
+    title: "PIA No Attivit\xE0"
+    visible: true
+  k3f320a266f71:
+    _precondition: k06d93c0075db
+    entity: output
+    hash: k3f320a266f71
+    html: "\n* valutare, se e quando conseguire e documentare la sussistenza delle\
+      \ condizioni di liceit\xE0 del trasferimento dei dati all'estero;\n* conseguire\
+      \ e documentare la sussistenza delle condizioni di liceit\xE0 del trasferimento\
+      \ dei dati all'estero, se e quando necessario."
+    public: true
+    title: "Estero Forse Attivit\xE0"
+    visible: true
+  k41bf4d897a7d:
+    _precondition: k05f1363c6223
+    entity: output
+    hash: k41bf4d897a7d
+    html: X
+    public: true
+    title: DPO Si Elenco
+    visible: true
+  k4307ebb00c7a:
+    _precondition: k0b7c30acf1b0
+    entity: output
+    hash: k4307ebb00c7a
+    html: Se e quando necessari, <u>contratti o altri atti giuridici con i responsabili
+      del trattamento</u>.
+    public: true
+    title: Terzi No Documenti Responsabili
+    visible: true
+  k46fd4098ad7b:
+    _precondition: k9b9173b9002b
+    entity: output
+    hash: k46fd4098ad7b
+    html: X
+    public: true
+    title: DPO No Elenco
+    visible: true
+  k4a3974edf9cc:
+    _precondition: k83cf26879cee
+    entity: output
+    hash: k4a3974edf9cc
+    html: X
+    public: true
+    title: Registro Si Elenco
+    visible: true
+  k4a7f13c6ee3a:
+    _precondition: ke2160880f376
+    entity: output
+    hash: k4a7f13c6ee3a
+    html: Se e quando necessarie, <u>istruzioni agli incaricati</u> del trattamento.
+    public: true
+    title: Dipendenti No Documenti
+    visible: true
+  k4d150052c485:
+    _precondition: ke2160880f376
+    entity: output
+    hash: k4d150052c485
+    html: "Poich\xE9 non avete dei dipendenti, non dovete redigere le istruzioni secondo\
+      \ le quali si devono trattare i dati personali."
+    public: true
+    title: Dipendenti No Testo
+    visible: true
+  k4d975875c1d6:
+    _precondition: ke2160880f376
+    entity: output
+    hash: k4d975875c1d6
+    html: X
+    public: true
+    title: Dipendenti No Elenco
+    visible: true
+  k507724299e9e:
+    _precondition: k7681b7f4737c
+    entity: output
+    hash: k507724299e9e
+    html: L'informativa e/o il banner cookie.
+    public: true
+    title: Cookie Si Documenti
+    visible: true
+  k51059732df96:
+    _precondition: k1f746bd9f74d
+    entity: output
+    hash: k51059732df96
+    html: "\n* valutare se e quando designare il responsabile della protezione dei\
+      \ dati personali,\n* designare il responsabile della protezione dei dati personali\
+      \ se e quando necessario e comunicarne i dati di contatto al Garante per la\
+      \ protezione dei dati personali utilizzando la procedura disponibile all\u2019\
+      URL https://servizi.gpdp.it/comunicazione-rpd/.\n"
+    public: true
+    title: "DPO Forse Attivit\xE0"
+    visible: true
+  k5732885b0e95:
+    _precondition: kf5c956070ae7
+    entity: output
+    hash: k5732885b0e95
+    html: "Nel vostro caso, \xE8 opportuno approfondire se il trattamento implichi\
+      \ un rischio elevato e se quindi la valutazione d'impatto debba essere realizzata."
+    public: true
+    title: PIA Forse Testo
+    visible: true
+  k622ad168dd5e:
+    _precondition: k0e0f1dd559a4
+    entity: output
+    hash: k622ad168dd5e
+    html: X
+    public: true
+    title: PIA No Elenco
+    visible: true
+  k6940539ca2c7:
+    _precondition: k9b9173b9002b
+    entity: output
+    hash: k6940539ca2c7
+    html: "\n* valutare se e quando designare il responsabile della protezione dei\
+      \ dati personali,\n* designare il responsabile della protezione dei dati personali\
+      \ se e quando necessario e comunicarne i dati di contatto al Garante per la\
+      \ protezione dei dati personali utilizzando la procedura disponibile all\u2019\
+      URL https://servizi.gpdp.it/comunicazione-rpd/.\n"
+    public: true
+    title: "DPO No Attivit\xE0"
+    visible: true
+  k6ab5e5d8ab23:
+    _precondition: k0e0f1dd559a4
+    entity: output
+    hash: k6ab5e5d8ab23
+    html: Se e quando necessaria, documentazione dell'<u>esecuzione della valutazione
+      d'impatto</u> sulla protezione dei dati.
+    public: true
+    title: PIA No Documenti
+    visible: true
+  k6adb102a9f9b:
+    _precondition: k43566d0c8c28
+    entity: output
+    hash: k6adb102a9f9b
+    html: "Nel vostro caso, in base alle informazioni allo stato disponibili, \xE8\
+      \ ragionevole ritenere che il trattamento implichi un rischio elevato e che\
+      \ quindi la valutazione d'impatto debba essere realizzata."
+    public: true
+    title: PIA Si Testo
+    visible: true
+  k6b4baee15bce:
+    _precondition: k7681b7f4737c
+    entity: output
+    hash: k6b4baee15bce
+    html: X
+    public: true
+    title: Cookie Si Elenco
+    visible: true
+  k6e20b00e107a:
+    _precondition: k1f746bd9f74d
+    entity: output
+    hash: k6e20b00e107a
+    html: Se e quando necessario, atto di <u>designazione del responsabile della protezione
+      dei dati</u>.
+    public: true
+    title: DPO Forse Documenti
+    visible: true
+  k71572ef41f82:
+    _precondition: k7681b7f4737c
+    entity: output
+    hash: k71572ef41f82
+    html: "Poich\xE9 utilizzate dei cookie, dovete redigere l'informativa e/o il banner\
+      \ cookie."
+    public: true
+    title: Cookie Si Testo
+    visible: true
+  k757cec4e9bc0:
+    _precondition: k59fe9266422d
+    entity: output
+    hash: k757cec4e9bc0
+    html: "Il titolare del trattamento deve valutare se ha 250 o pi\xF9 dipendenti\
+      \ e/o se il trattamento pu\xF2 presentare un rischio per i diritti e le libert\xE0\
+      \ dell'interessato, non \xE8 occasionale o include il trattamento di categorie\
+      \ particolari di dati di cui all'articolo 9, paragrafo 1, o dati personali relativi\
+      \ a condanne penali e a reati di cui al'articolo 10 del Regolamento: in questi\
+      \ casi il titolare del trattamento deve tenere un registro delle attivit\xE0\
+      \ di trattamento da realizzarsi con i contenuti previsti all'art. 30, comma\
+      \ 1, del Regolamento."
+    public: true
+    title: Registro Forse Testo
+    visible: true
+  k7b78d769cf01:
+    _precondition: k1839466ba40d
+    entity: output
+    hash: k7b78d769cf01
+    html: '
+
+      * valutare se e quando redigere l''informativa e/o il banner cookie;
+
+      * redigere l''informativa e/o il banner cookie, se e quando necessari.'
+    public: true
+    title: "Cookie Forse Attivit\xE0"
+    visible: true
+  k7eb2d3290585:
+    _precondition: k0b7c30acf1b0
+    entity: output
+    hash: k7eb2d3290585
+    html: "Avete indicato che non vi sono soggetti terzi che tratteranno dati personali\
+      \ per vostro conto e/o determinandone le finalit\xE0 ed i mezzi e pertanto non\
+      \ \xE8 necessario predisporre gli atti di cui sopra."
+    public: true
+    title: Terzi No Testo
+    visible: true
+  k83dd2c427596:
+    _precondition: k0b7c30acf1b0
+    entity: output
+    hash: k83dd2c427596
+    html: '
+
+      * valutare se e quando redigere accordi con i contitolari del trattamento, e/o
+      contratti o altri atti giuridici con i responsabili del trattamento;
+
+      * redigere accordi con i contitolari del trattamento, se e quando necessari;
+
+      * redigere contratti o altri atti giuridici con i responsabili del trattamento,
+      se e quando necessari.'
+    public: true
+    title: "Terzi No Attivit\xE0"
+    visible: true
+  k84e79eb320e9:
+    _precondition: k06d93c0075db
+    entity: output
+    hash: k84e79eb320e9
+    html: "Se e quando necessario, documentazione dei presupposti di <u>liceit\xE0\
+      \ del trasferimento dei dati verso paesi al di fuori dell'UE o verso organizzazioni\
+      \ internazionali</u>"
+    public: true
+    title: Estero Forse Documenti
+    visible: true
+  k852413a8a05e:
+    _precondition: k0b7c30acf1b0
+    entity: output
+    hash: k852413a8a05e
+    html: Se e quando necessari, <u>accordi con i contitolari del trattamento</u>.
+    public: true
+    title: Terzi No Documenti Contitolari
+    visible: true
+  k8783177bf420:
+    _precondition: kf5c956070ae7
+    entity: output
+    hash: k8783177bf420
+    html: '
+
+      * valutare se e quando eseguire la valutazione d''impatto sulla protezione dei
+      dati,
+
+      * <u>eseguire la valutazione d''impatto</u> sulla protezione dei dati, se e
+      quando necessaria.'
+    public: true
+    title: "PIA Forse Attivit\xE0"
+    visible: true
+  k87c89500ebdb:
+    _precondition: k1f746bd9f74d
+    entity: output
+    hash: k87c89500ebdb
+    html: "Se:\n\na) il trattamento \xE8 effettuato da un'autorit\xE0 pubblica o da\
+      \ un organismo pubblico (eccettuate le autorit\xE0 giurisdizionali quando esercitano\
+      \ le loro funzioni giurisdizionali);\n\nb) le attivit\xE0 principali del titolare\
+      \ del trattamento o del responsabile del trattamento consistono in trattamenti\
+      \ che, per loro natura, ambito di applicazione e/o finalit\xE0, richiedono il\
+      \ monitoraggio regolare e sistematico degli interessati su larga scala; oppure\n\
+      \nc) le attivit\xE0 principali del titolare del trattamento o del responsabile\
+      \ del trattamento consistono nel trattamento, su larga scala, di categorie particolari\
+      \ di dati personali di cui all'articolo 9 o di dati relativi a condanne penali\
+      \ e a reati di cui all'articolo 10;\n\nil titolare del trattamento deve designare\
+      \ un responsabile della protezione dei dati ai sensi dell'art. 37 del Regolamento.\n\
+      \n\xC8 necessario valutare se ricorrono le circostanze di cui sopra ed \xE8\
+      \ quindi necessario designare un responsabile della protezione dei dati (e quindi\
+      \ comunicarne i dati di contatto al Garante per la protezione dei dati personali\
+      \ utilizzando la procedura disponibile all\u2019URL https://servizi.gpdp.it/comunicazione-rpd/)."
+    public: true
+    title: DPO Forse Testo
+    visible: true
+  k891d9e98da48:
+    _precondition: kc694b5865459
+    entity: output
+    hash: k891d9e98da48
+    html: <u>Istruzioni agli incaricati</u> del trattamento.
+    public: true
+    title: Dipendenti Si Documenti
+    visible: true
+  k8bf41c120f8c:
+    _precondition: k9b9173b9002b
+    entity: output
+    hash: k8bf41c120f8c
+    html: "Poich\xE9:\n\na) il trattamento non \xE8 effettuato da un'autorit\xE0 pubblica\
+      \ o da un organismo pubblico (eccettuate le autorit\xE0 giurisdizionali quando\
+      \ esercitano le loro funzioni giurisdizionali);\n\nb) le attivit\xE0 principali\
+      \ del titolare del trattamento o del responsabile del trattamento non consistono\
+      \ in trattamenti che, per loro natura, ambito di applicazione e/o finalit\xE0\
+      , richiedono il monitoraggio regolare e sistematico degli interessati su larga\
+      \ scala; e\n\nc) le attivit\xE0 principali del titolare del trattamento o del\
+      \ responsabile del trattamento non consistono nel trattamento, su larga scala,\
+      \ di categorie particolari di dati personali di cui all'articolo 9 o di dati\
+      \ relativi a condanne penali e a reati di cui all'articolo 10;\n\nil titolare\
+      \ del trattamento non deve designare un responsabile della protezione dei dati\
+      \ ai sensi dell'art. 37 del Regolamento (e quindi non deve comunicarne i dati\
+      \ di contatto al Garante per la protezione dei dati personali utilizzando la\
+      \ procedura disponibile all\u2019URL https://servizi.gpdp.it/comunicazione-rpd/)."
+    public: true
+    title: DPO No Testo
+    visible: true
+  k8d37242824b9:
+    _precondition: kc694b5865459
+    entity: output
+    hash: k8d37242824b9
+    html: '
+
+      * redigere le istruzioni agli incaricati del trattamento.'
+    public: true
+    title: "Dipendenti Si Attivit\xE0"
+    visible: true
+  k9189a70c6654:
+    _precondition: k83cf26879cee
+    entity: output
+    hash: k9189a70c6654
+    html: "Se il titolare del trattamento ha 250 o pi\xF9 dipendenti o se il trattamento\
+      \ pu\xF2 presentare un rischio per i diritti e le libert\xE0 dell'interessato,\
+      \ non \xE8 occasionale o include il trattamento di categorie particolari di\
+      \ dati di cui all'articolo 9, paragrafo 1, o dati personali relativi a condanne\
+      \ penali e a reati di cui all'articolo 10 del Regolamento, il titolare del trattamento\
+      \ deve tenere un registro delle attivit\xE0 di trattamento da realizzarsi con\
+      \ i contenuti previsti all'art. 30, comma 1, del Regolamento."
+    public: true
+    title: Registro Si Testo
+    visible: true
+  k94ec2aee067e:
+    _precondition: k8056e0548731
+    entity: output
+    hash: k94ec2aee067e
+    html: '
+
+      * redigere accordi con i contitolari del trattamento;
+
+      * redigere contratti o altri atti giuridici con i responsabili del trattamento.'
+    public: true
+    title: "Terzi Si Attivit\xE0"
+    visible: true
+  k965a5a601e6d:
+    _precondition: kf5c956070ae7
+    entity: output
+    hash: k965a5a601e6d
+    html: Se e quando necessaria, documentazione dell'<u>esecuzione della valutazione
+      d'impatto</u> sulla protezione dei dati.
+    public: true
+    title: PIA Forse Documenti
+    visible: true
+  k9d8427c8b239:
+    _precondition: k83cf26879cee
+    entity: output
+    hash: k9d8427c8b239
+    html: "<u>Registro delle attivit\xE0 di trattamento</u> ai sensi dell'art. 30\
+      \ del Regolamento (vedi Allegato C - \"*Checklist dei contenuti del registro\
+      \ delle attivit\xE0 di trattamento*\")."
+    public: true
+    title: Registro Si Documenti
+    visible: true
+  ka13dc3b8369c:
+    _precondition: kf267356e3342
+    entity: output
+    hash: ka13dc3b8369c
+    html: "\n* valutare, se e quando conseguire e documentare la sussistenza delle\
+      \ condizioni di liceit\xE0 del trasferimento dei dati all'estero;\n* conseguire\
+      \ e documentare la sussistenza delle condizioni di liceit\xE0 del trasferimento\
+      \ dei dati all'estero, se e quando necessario."
+    public: true
+    title: "Estero No Attivit\xE0"
+    visible: true
+  ka1e13fc9bb99:
+    _precondition: k7cc9a16737e3
+    entity: output
+    hash: ka1e13fc9bb99
+    html: '
+
+      * valutare se e quando redigere accordi con i contitolari del trattamento, e/o
+      contratti o altri atti giuridici con i responsabili del trattamento;
+
+      * redigere accordi con i contitolari del trattamento, se e quando necessari;
+
+      * redigere contratti o altri atti giuridici con i responsabili del trattamento,
+      se e quando necessari.'
+    public: true
+    title: "Terzi Forse Attivit\xE0"
+    visible: true
+  ka475c5d84ea1:
+    _precondition: k8056e0548731
+    entity: output
+    hash: ka475c5d84ea1
+    html: X
+    public: true
+    title: Terzi Si Elenco
+    visible: true
+  ka4d11d447ec9:
+    _precondition: kfde26f851736
+    entity: output
+    hash: ka4d11d447ec9
+    html: "\n* valutare se e quando tenere il registro delle attivit\xE0 di trattamento\
+      \ ai sensi dell'art. 30 del Regolamento;\n* tenere il registro delle attivit\xE0\
+      \ di trattamento, se e quando necessario."
+    public: true
+    title: "Registro No Attivit\xE0"
+    visible: true
+  ka53f79b24015:
+    _precondition: k7681b7f4737c
+    entity: output
+    hash: ka53f79b24015
+    html: '
+
+      * redigere l''informativa e/o il banner cookie.'
+    public: true
+    title: "Cookie Si Attivit\xE0"
+    visible: true
+  ka6166939ff5d:
+    _precondition: k0b7c30acf1b0
+    entity: output
+    hash: ka6166939ff5d
+    html: X
+    public: true
+    title: Terzi No Elenco
+    visible: true
+  ka8d9093e38cf:
+    _precondition: kf267356e3342
+    entity: output
+    hash: ka8d9093e38cf
+    html: Avete indicato che non trasferirete i dati personali verso paesi al di fuori
+      dell'UE o verso organizzazioni internazionali.
+    public: true
+    title: Estero No Testo
+    visible: true
+  kaa29f86bbef5:
+    _precondition: k15ad0d82d287
+    entity: output
+    hash: kaa29f86bbef5
+    html: Avete indicato che trasferirete i dati personali verso un paese al di fuori
+      dell'UE o verso un'organizzazione internazionale.
+    public: true
+    title: Estero Si Testo
+    visible: true
+  kae6dab6c503d:
+    _precondition: kec0668804dfc
+    entity: output
+    hash: kae6dab6c503d
+    html: '
+
+      * valutare se e quando redigere l&rsquo;informativa e/o il banner cookie;
+
+      * redigere l''informativa e/o il banner cookie, se e quando necessari.
+
+      '
+    public: true
+    title: "Cookie No Attivit\xE0"
+    visible: true
+  kafdcfa811786:
+    _precondition: kfde26f851736
+    entity: output
+    hash: kafdcfa811786
+    html: "Se e quando necessario, <u>registro delle attivit\xE0 di trattamento</u>\
+      \ ai sensi dell'art. 30 del Regolamento (vedi Allegato C - \"*Checklist dei\
+      \ contenuti del registro delle attivit\xE0 di trattamento*\")."
+    public: true
+    title: Registro No Documenti
+    visible: true
+  kb0e75da95709:
+    _precondition: k83cf26879cee
+    entity: output
+    hash: kb0e75da95709
+    html: "\n* tenere il registro delle attivit\xE0 di trattamento."
+    public: true
+    title: "Registro Si Attivit\xE0"
+    visible: true
+  kb23127a0ab96:
+    _precondition: k59fe9266422d
+    entity: output
+    hash: kb23127a0ab96
+    html: "\n* valutare se e quando tenere il registro delle attivit\xE0 di trattamento\
+      \ ai sensi dell'art. 30 del Regolamento;\n* tenere il registro delle attivit\xE0\
+      \ di trattamento, se e quando necessario."
+    public: true
+    title: "Registro Forse Attivit\xE0"
+    visible: true
+  kb66a9ae7f932:
+    _precondition: kec0668804dfc
+    entity: output
+    hash: kb66a9ae7f932
+    html: Se e quando necessari, <u>l'informativa e/o il banner cookie</u>.
+    public: true
+    title: Cookie No Documenti
+    visible: true
+  kb7f56d7f4da6:
+    _precondition: kec0668804dfc
+    entity: output
+    hash: kb7f56d7f4da6
+    html: "Poich\xE9 non utilizzate dei cookie, non dovete redigere l'informativa\
+      \ e/o il banner cookie."
+    public: true
+    title: Cookie No Testo
+    visible: true
+  kb965fce253a2:
+    _precondition: k05f1363c6223
+    entity: output
+    hash: kb965fce253a2
+    html: "Poich\xE9:\n\na) il trattamento \xE8 effettuato da un'autorit\xE0 pubblica\
+      \ o da un organismo pubblico (eccettuate le autorit&agrave; giurisdizionali\
+      \ quando esercitano le loro funzioni giurisdizionali);\n\nb) le attivit\xE0\
+      \ principali del titolare del trattamento o del responsabile del trattamento\
+      \ consistono in trattamenti che, per loro natura, ambito di applicazione e/o\
+      \ finalit\xE0, richiedono il monitoraggio regolare e sistematico degli interessati\
+      \ su larga scala; oppure\n\nc) le attivit\xE0 principali del titolare del trattamento\
+      \ o del responsabile del trattamento consistono nel trattamento, su larga scala,\
+      \ di categorie particolari di dati personali di cui all'articolo 9 o di dati\
+      \ relativi a condanne penali e a reati di cui all'articolo 10;\n\nil titolare\
+      \ del trattamento deve designare un responsabile della protezione dei dati ai\
+      \ sensi dell'art. 37 del Regolamento (e quindi comunicarne i dati di contatto\
+      \ al Garante per la protezione dei dati personali utilizzando la procedura disponibile\
+      \ all\u2019URL https://servizi.gpdp.it/comunicazione-rpd/)."
+    public: true
+    title: DPO Si Testo
+    visible: true
+  kbb88f8ed060a:
+    _precondition: k8056e0548731
+    entity: output
+    hash: kbb88f8ed060a
+    html: <u>Contratti o altri atti giuridici con i responsabili del trattamento</u>.
+    public: true
+    title: Terzi Si Documenti Responsabili
+    visible: true
+  kbbd1ffa41e6e:
+    _precondition: kf5c956070ae7
+    entity: output
+    hash: kbbd1ffa41e6e
+    html: X
+    public: true
+    title: PIA Forse Elenco
+    visible: true
+  kbcfe92ea435a:
+    _precondition: k05f1363c6223
+    entity: output
+    hash: kbcfe92ea435a
+    html: Atto di <u>designazione del responsabile della protezione dei dati</u>.
+    public: true
+    title: DPO Si Documenti
+    visible: true
+  kbdf9d8d74de8:
+    _precondition: k43566d0c8c28
+    entity: output
+    hash: kbdf9d8d74de8
+    html: Documentazione dell'<u>esecuzione della valutazione d'impatto</u> sulla
+      protezione dei dati.
+    public: true
+    title: PIA Si Documenti
+    visible: true
+  kc28d7ffac981:
+    _precondition: k7cc9a16737e3
+    entity: output
+    hash: kc28d7ffac981
+    html: "Dovete valutare se vi sono soggetti terzi che tratteranno dati personali\
+      \ per vostro conto e/o determinandone le finalit\xE0 ed i mezzi e se pertanto\
+      \ \xE8 necessario predisporre gli atti di cui sopra."
+    public: true
+    title: Terzi Forse Testo
+    visible: true
+  kca1fd3690b31:
+    _precondition: k15ad0d82d287
+    entity: output
+    hash: kca1fd3690b31
+    html: "Documentazione dei presupposti di <u>liceit\xE0 del trasferimento dei dati\
+      \ verso paesi al di fuori dell'UE o verso organizzazioni internazionali</u>."
+    public: true
+    title: Estero Si Documenti
+    visible: true
+  kcd52dccb3f7d:
+    _precondition: k8056e0548731
+    entity: output
+    hash: kcd52dccb3f7d
+    html: <u>Accordi con i contitolari del trattamento</u>.
+    public: true
+    title: Terzi Si Documenti Contitolari
+    visible: true
+  kd631e0cb9a5c:
+    _precondition: k15ad0d82d287
+    entity: output
+    hash: kd631e0cb9a5c
+    html: "\n* conseguire e documentare la sussistenza delle condizioni di liceit\xE0\
+      \ del trasferimento dei dati all'estero."
+    public: true
+    title: "Estero Si Attivit\xE0"
+    visible: true
+  kd8e08ed6afc9:
+    _precondition: k15ad0d82d287
+    entity: output
+    hash: kd8e08ed6afc9
+    html: X
+    public: true
+    title: Estero Si Elenco
+    visible: true
+  kdc4d855e5c50:
+    _precondition: k1839466ba40d
+    entity: output
+    hash: kdc4d855e5c50
+    html: Se e quando necessari, <u>l'informativa e/o il banner cookie</u>.
+    public: true
+    title: Cookie Forse Documenti
+    visible: true
+  ke8e2e066a82d:
+    _precondition: k1839466ba40d
+    entity: output
+    hash: ke8e2e066a82d
+    html: X
+    public: true
+    title: Cookie Forse Elenco
+    visible: true
+  kf304db211ebe:
+    _precondition: k7cc9a16737e3
+    entity: output
+    hash: kf304db211ebe
+    html: X
+    public: true
+    title: Terzi Forse Elenco
+    visible: true
+  kf35adf117692:
+    _precondition: k06d93c0075db
+    entity: output
+    hash: kf35adf117692
+    html: X
+    public: true
+    title: Estero Forse Elenco
+    visible: true
+  kf3d485863878:
+    _precondition: k7cc9a16737e3
+    entity: output
+    hash: kf3d485863878
+    html: Se e quando necessari, <u>accordi con i contitolari del trattamento</u>.
+    public: true
+    title: Terzi Forse Documenti Contitolari
+    visible: true
+  kf4659e8c5ab5:
+    _precondition: k1f746bd9f74d
+    entity: output
+    hash: kf4659e8c5ab5
+    html: X
+    public: true
+    title: DPO Forse Elenco
+    visible: true
+  kf46c34affb72:
+    _precondition: ke2160880f376
+    entity: output
+    hash: kf46c34affb72
+    html: "\n * valutare se e quando redigere le istruzioni agli incaricati del trattamento;\n\
+      \ * redigere le istruzioni agli incaricati del trattamento, se e quando necessarie.\n\
+      \n\n"
+    public: true
+    title: "Dipendenti No Attivit\xE0"
+    visible: true
+  kfd95c8a1feef:
+    _precondition: kf267356e3342
+    entity: output
+    hash: kfd95c8a1feef
+    html: "Se e quando necessario, documentazione dei presupposti di <u>liceit\xE0\
+      \ del trasferimento dei dati verso paesi al di fuori dell'UE o verso organizzazioni\
+      \ internazionali</u>"
+    public: true
+    title: Estero No Documenti
+    visible: true
+  kff270d89bf93:
+    _precondition: kfde26f851736
+    entity: output
+    hash: kff270d89bf93
+    html: X
+    public: true
+    title: Registro No Elenco
+    visible: true
+public: true
+qa:
+  k02b692cdf686:
+    _parent_precondition: null
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k02b692cdf686
+    link: null
+    public: true
+    question: 'Adottate un modello gestionale ed organizzativo formalizzato (per es.:
+      ISO:9001)?'
+    title: Voi ISO
+    tooltip: null
+    type: single
+    visible: true
+  k1612806efa53:
+    _parent_precondition: ke2160880f376
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k1612806efa53
+    link: null
+    public: true
+    question: "Trattate dati cd. \"sensibili\" (oltre quelli di eventuali dipendenti)\
+      \ e cio\xE8: \n(i) dati personali che rivelano l'origine razziale o etnica,\
+      \ le opinioni politiche, le convinzioni religiose o filosofiche, o l'appartenenza\
+      \ sindacale,\n(ii) dati genetici,\n(iii) dati biometrici intesi a identificare\
+      \ in modo univoco una persona fisica,\n(iv) dati relativi alla salute o alla\
+      \ vita sessuale o all'orientamento sessuale della persona), o\n(v) dati relativi\
+      \ alle condanne penali, ai reati o a connesse misure di sicurezza?"
+    title: Dati Sensibili
+    tooltip: null
+    type: single
+    visible: true
+  k1c4afe53371b:
+    _parent_precondition: null
+    answers:
+    - "s\xEC"
+    - 'no'
+    entity: qa
+    hash: k1c4afe53371b
+    link: null
+    public: true
+    question: "Siete un ente (societ\xE0, associazione, fondazione, ecc.)?"
+    title: Voi Ente
+    tooltip: null
+    type: single
+    visible: true
+  k1fce5d7f1bfa:
+    _parent_precondition: k716678b608f0
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k1fce5d7f1bfa
+    link: null
+    public: true
+    question: "Le vostre attivit\xE0 principali consistono in trattamenti che, per\
+      \ loro natura, ambito di applicazione e/o finalit\xE0, richiedono il monitoraggio\
+      \ regolare e sistematico degli interessati su larga scala?"
+    title: Monitoraggio Larga Scala
+    tooltip: null
+    type: single
+    visible: true
+  k20390fcb9eb5:
+    _parent_precondition: null
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k20390fcb9eb5
+    link: null
+    public: true
+    question: "Siete un'autorit\xE0 pubblica o un organismo pubblico?"
+    title: "Voi Autorit\xE0 Pubblica"
+    tooltip: null
+    type: single
+    visible: true
+  k236c01843c08:
+    _parent_precondition: k716678b608f0
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k236c01843c08
+    link: null
+    public: true
+    question: I dati che trattate sono trasferiti verso paesi al di fuori dell'UE
+      o verso organizzazioni internazionali?
+    title: Dati Estero
+    tooltip: null
+    type: single
+    visible: true
+  k363d580d2bf6:
+    _parent_precondition: ke2160880f376
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k363d580d2bf6
+    link: null
+    public: true
+    question: I trattamenti che realizzate sono occasionali?
+    title: Voi Dipendenti No Occasionale
+    tooltip: null
+    type: single
+    visible: true
+  k62802f2e40d1:
+    _parent_precondition: k0de789a9c37d
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k62802f2e40d1
+    link: null
+    public: true
+    question: "Le vostre attivit\xE0 principali consistono nel trattamento, su larga\
+      \ scala, di:\n(i) dati personali che rivelano l'origine razziale o etnica, le\
+      \ opinioni politiche, le convinzioni religiose o filosofiche, o l'appartenenza\
+      \ sindacale,\n(ii) dati genetici,\n(iii) dati biometrici intesi a identificare\
+      \ in modo univoco una persona fisica,\n(iv) dati relativi alla salute o alla\
+      \ vita sessuale o all'orientamento sessuale della persona), o\n(v) dati relativi\
+      \ alle condanne penali, ai reati o a connesse misure di sicurezza?"
+    title: Dati Sensibili Larga Scala
+    tooltip: null
+    type: single
+    visible: true
+  k6a7cf9cae570:
+    _parent_precondition: k38b9f8b682cd
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k6a7cf9cae570
+    link: null
+    public: true
+    question: "Qualche tipo di trattamento pu\xF2 presentare un rischio elevato per\
+      \ i diritti e le libert\xE0 delle persone fisiche?"
+    title: PIA
+    tooltip: null
+    type: single
+    visible: true
+  k9abc40d76b01:
+    _parent_precondition: ke2160880f376
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k9abc40d76b01
+    link: null
+    public: true
+    question: "Effettuate uno o pi\xF9 trattamenti che possono presentare un rischio\
+      \ per i diritti e le libert\xE0 degli interessati?"
+    title: Voi Dipendenti No Rischio
+    tooltip: null
+    type: single
+    visible: true
+  k9b7deb82a3ce:
+    _parent_precondition: ka529f2fab0e2
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: k9b7deb82a3ce
+    link: null
+    public: true
+    question: Per trattare i dati degli utenti dei vostri servizi via internet utilizzate
+      cookies o dispositivi simili?
+    title: Cookies
+    tooltip: null
+    type: single
+    visible: true
+  kbbc2a7d231e7:
+    _parent_precondition: k716678b608f0
+    answers:
+    - "s\xEC"
+    - 'no'
+    - non so
+    entity: qa
+    hash: kbbc2a7d231e7
+    link: null
+    public: true
+    question: "Comunicate i dati a terzi (per es. a consulenti e collaboratori esterni,\
+      \ a fornitori di SaaS come gmail o dropbox, a societ\xE0 collegate, a partner\
+      \ commerciali)?"
+    title: Dati Comunicati
+    tooltip: null
+    type: single
+    visible: true
+  kf2f22222ac97:
+    _parent_precondition: null
+    answers:
+    - dati di clienti e potenziali clienti (compresi i dati delle persone fisiche
+      che agiscono per loro conto) per gestire i rapporti con gli stessi e la fornitura
+      dei nostri prodotti e/o servizi
+    - dati di dipendenti e collaboratori (compresi i dati relativi al loro stato di
+      salute e alla loro affiliazione sindacale) per gestire il rapporto di lavoro
+    - dati di fornitori e potenziali fornitori (compresi i dati delle persone fisiche
+      che agiscono per loro conto) per gestire i rapporti con gli stessi e la fornitura
+      dei loro prodotti e/o servizi
+    - 'dati degli utenti dei nostri servizi via internet (per es., sito aziendale,
+      servizi via web o applicazioni) per fornire i servizi e proteggere i sistemi '
+    - altro
+    entity: qa
+    hash: kf2f22222ac97
+    link: null
+    public: true
+    question: "Quali categorie di dati (e di quali categorie di interessati) tratterete\
+      \ e per quali finalit\xE0?"
+    title: Dati Quali
+    tooltip: null
+    type: single
+    visible: true
+simple_preconditions:
+  k06d93c0075db:
+    condition:
+    - k236c01843c08
+    - non so
+    entity: precondition/simple
+    hash: k06d93c0075db
+    public: true
+    title: "Dati Estero \u21D2 non so"
+    type: simple
+    visible: true
+  k09718fd02d06:
+    condition:
+    - k02b692cdf686
+    - 'no'
+    entity: precondition/simple
+    hash: k09718fd02d06
+    public: true
+    title: "Voi ISO \u21D2 no"
+    type: simple
+    visible: true
+  k0b7c30acf1b0:
+    condition:
+    - kbbc2a7d231e7
+    - 'no'
+    entity: precondition/simple
+    hash: k0b7c30acf1b0
+    public: true
+    title: "Dati Comunicati \u21D2 no"
+    type: simple
+    visible: true
+  k0ffdd5b0f1d7:
+    condition:
+    - k62802f2e40d1
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k0ffdd5b0f1d7
+    public: true
+    title: "Dati Sensibili Larga Scala \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k15ad0d82d287:
+    condition:
+    - k236c01843c08
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k15ad0d82d287
+    public: true
+    title: "Dati Estero \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k17adfdc712e5:
+    condition:
+    - k1612806efa53
+    - non so
+    entity: precondition/simple
+    hash: k17adfdc712e5
+    public: true
+    title: "Dati Sensibili \u21D2 non so"
+    type: simple
+    visible: true
+  k1839466ba40d:
+    condition:
+    - k9b7deb82a3ce
+    - non so
+    entity: precondition/simple
+    hash: k1839466ba40d
+    public: true
+    title: "Cookies \u21D2 non so"
+    type: simple
+    visible: true
+  k318a160d7349:
+    condition:
+    - k9abc40d76b01
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k318a160d7349
+    public: true
+    title: "Voi Dipendenti No Rischio \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k3ab8cb0ff765:
+    condition:
+    - k02b692cdf686
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k3ab8cb0ff765
+    public: true
+    title: "Voi ISO \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k3abf3c3e033d:
+    condition:
+    - k6a7cf9cae570
+    - 'no'
+    entity: precondition/simple
+    hash: k3abf3c3e033d
+    public: true
+    title: "PIA \u21D2 no"
+    type: simple
+    visible: true
+  k3b2c900de362:
+    condition:
+    - kf2f22222ac97
+    - altro
+    entity: precondition/simple
+    hash: k3b2c900de362
+    public: true
+    title: "Dati Quali \u21D2 altro"
+    type: simple
+    visible: true
+  k43566d0c8c28:
+    condition:
+    - k6a7cf9cae570
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k43566d0c8c28
+    public: true
+    title: "PIA \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k4b0abf3ffbf3:
+    condition:
+    - k9abc40d76b01
+    - non so
+    entity: precondition/simple
+    hash: k4b0abf3ffbf3
+    public: true
+    title: "Voi Dipendenti No Rischio \u21D2 non so"
+    type: simple
+    visible: true
+  k5d6879bc15c5:
+    condition:
+    - k9b7deb82a3ce
+    - 'no'
+    entity: precondition/simple
+    hash: k5d6879bc15c5
+    public: true
+    title: "Cookies \u21D2 no"
+    type: simple
+    visible: true
+  k5d7b229c938f:
+    condition:
+    - k1612806efa53
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k5d7b229c938f
+    public: true
+    title: "Dati Sensibili \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k63ec3bdf6427:
+    condition:
+    - k363d580d2bf6
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k63ec3bdf6427
+    public: true
+    title: "Voi Dipendenti No Occasionale \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k6a209668acee:
+    condition:
+    - k20390fcb9eb5
+    - non so
+    entity: precondition/simple
+    hash: k6a209668acee
+    public: true
+    title: "Voi Autorit\xE0 Pubblica \u21D2 non so"
+    type: simple
+    visible: true
+  k73cf1352230e:
+    condition:
+    - k363d580d2bf6
+    - 'no'
+    entity: precondition/simple
+    hash: k73cf1352230e
+    public: true
+    title: "Voi Dipendenti No Occasionale \u21D2 no"
+    type: simple
+    visible: true
+  k7681b7f4737c:
+    condition:
+    - k9b7deb82a3ce
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k7681b7f4737c
+    public: true
+    title: "Cookies \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k77638e437b43:
+    condition:
+    - k6a7cf9cae570
+    - non so
+    entity: precondition/simple
+    hash: k77638e437b43
+    public: true
+    title: "PIA \u21D2 non so"
+    type: simple
+    visible: true
+  k7cc9a16737e3:
+    condition:
+    - kbbc2a7d231e7
+    - non so
+    entity: precondition/simple
+    hash: k7cc9a16737e3
+    public: true
+    title: "Dati Comunicati \u21D2 non so"
+    type: simple
+    visible: true
+  k7df8b4207e49:
+    condition:
+    - k20390fcb9eb5
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k7df8b4207e49
+    public: true
+    title: "Voi Autorit\xE0 Pubblica \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k7e1e569403b8:
+    condition:
+    - kf2f22222ac97
+    - dati di clienti e potenziali clienti (compresi i dati delle persone fisiche
+      che agiscono per loro conto) per gestire i rapporti con gli stessi e la fornitura
+      dei nostri prodotti e/o servizi
+    entity: precondition/simple
+    hash: k7e1e569403b8
+    public: true
+    title: "Dati Quali \u21D2 dati clienti"
+    type: simple
+    visible: true
+  k8056e0548731:
+    condition:
+    - kbbc2a7d231e7
+    - "s\xEC"
+    entity: precondition/simple
+    hash: k8056e0548731
+    public: true
+    title: "Dati Comunicati \u21D2 s\xEC"
+    type: simple
+    visible: true
+  k8584379fdec7:
+    condition:
+    - k9abc40d76b01
+    - 'no'
+    entity: precondition/simple
+    hash: k8584379fdec7
+    public: true
+    title: "Voi Dipendenti No Rischio \u21D2 no"
+    type: simple
+    visible: true
+  k9542bbe2cb2f:
+    condition:
+    - k363d580d2bf6
+    - non so
+    entity: precondition/simple
+    hash: k9542bbe2cb2f
+    public: true
+    title: "Voi Dipendenti No Occasionale \u21D2 non so"
+    type: simple
+    visible: true
+  k9f82c2f2087a:
+    condition:
+    - k1fce5d7f1bfa
+    - 'no'
+    entity: precondition/simple
+    hash: k9f82c2f2087a
+    public: true
+    title: "Monitoraggio Larga Scala \u21D2 no"
+    type: simple
+    visible: true
+  ka529f2fab0e2:
+    condition:
+    - kf2f22222ac97
+    - 'dati degli utenti dei nostri servizi via internet (per es., sito aziendale,
+      servizi via web o applicazioni) per fornire i servizi e proteggere i sistemi '
+    entity: precondition/simple
+    hash: ka529f2fab0e2
+    public: true
+    title: "Dati Quali \u21D2 dati utenti internet"
+    type: simple
+    visible: true
+  kb23e094ee730:
+    condition:
+    - k1c4afe53371b
+    - "s\xEC"
+    entity: precondition/simple
+    hash: kb23e094ee730
+    public: true
+    title: "Voi Ente \u21D2 s\xEC"
+    type: simple
+    visible: true
+  kb860e03e739f:
+    condition:
+    - k1fce5d7f1bfa
+    - "s\xEC"
+    entity: precondition/simple
+    hash: kb860e03e739f
+    public: true
+    title: "Monitoraggio Larga Scala \u21D2 s\xEC"
+    type: simple
+    visible: true
+  kbcc40f07b08b:
+    condition:
+    - k1fce5d7f1bfa
+    - non so
+    entity: precondition/simple
+    hash: kbcc40f07b08b
+    public: true
+    title: "Monitoraggio Larga Scala \u21D2 non so"
+    type: simple
+    visible: true
+  kc03d7efd1d55:
+    condition:
+    - k1612806efa53
+    - 'no'
+    entity: precondition/simple
+    hash: kc03d7efd1d55
+    public: true
+    title: "Dati Sensibili \u21D2 no"
+    type: simple
+    visible: true
+  kc694b5865459:
+    condition:
+    - kf2f22222ac97
+    - dati di dipendenti e collaboratori (compresi i dati relativi al loro stato di
+      salute e alla loro affiliazione sindacale) per gestire il rapporto di lavoro
+    entity: precondition/simple
+    hash: kc694b5865459
+    public: true
+    title: "Dati Quali \u21D2 dati dipendenti"
+    type: simple
+    visible: true
+  kc82ff30444b3:
+    condition:
+    - k02b692cdf686
+    - non so
+    entity: precondition/simple
+    hash: kc82ff30444b3
+    public: true
+    title: "Voi ISO \u21D2 non so"
+    type: simple
+    visible: true
+  kde1951a3b85d:
+    condition:
+    - kf2f22222ac97
+    - dati di fornitori e potenziali fornitori (compresi i dati delle persone fisiche
+      che agiscono per loro conto) per gestire i rapporti con gli stessi e la fornitura
+      dei loro prodotti e/o servizi
+    entity: precondition/simple
+    hash: kde1951a3b85d
+    public: true
+    title: "Dati Quali \u21D2 dati fornitori"
+    type: simple
+    visible: true
+  keeede992ede8:
+    condition:
+    - k62802f2e40d1
+    - non so
+    entity: precondition/simple
+    hash: keeede992ede8
+    public: true
+    title: "Dati Sensibili Larga Scala \u21D2 non so"
+    type: simple
+    visible: true
+  kf267356e3342:
+    condition:
+    - k236c01843c08
+    - 'no'
+    entity: precondition/simple
+    hash: kf267356e3342
+    public: true
+    title: "Dati Estero \u21D2 no"
+    type: simple
+    visible: true
+  kf65ab2e59eb4:
+    condition:
+    - k20390fcb9eb5
+    - 'no'
+    entity: precondition/simple
+    hash: kf65ab2e59eb4
+    public: true
+    title: "Voi Autorit\xE0 Pubblica \u21D2 no"
+    type: simple
+    visible: true
+  kfe4db49ea5d1:
+    condition:
+    - k62802f2e40d1
+    - 'no'
+    entity: precondition/simple
+    hash: kfe4db49ea5d1
+    public: true
+    title: "Dati Sensibili Larga Scala \u21D2 no"
+    type: simple
+    visible: true
+status: null
+tags:
+- GDPR
+- privacy
+title: Memorandum GDPR
+version: '0.6'
+visible: true
